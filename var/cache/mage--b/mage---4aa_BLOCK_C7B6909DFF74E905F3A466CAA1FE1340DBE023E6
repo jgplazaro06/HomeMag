@@ -1,0 +1,993 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1561362406;s:6:"expire";i:1561448806;s:4:"tags";s:48:"4aa_VES_PAGEBUILDER_PAGE,4aa_BLOCK_HTML,4aa_MAGE";}
+<div class=" style-home home-style2 global-home1"><div class="ves-container   " style=";"><div><div class="ves-inner   "><div class="row row-level-1  row-default"><div class="row-inner clearfix "><div class=" col-lg-3 col-md-3 col-sm-12 col-xs-12  col-default"><div class="col-inner "></div></div><div class=" col-lg-9 col-md-9 col-sm-12 col-xs-12  col-default"><div class="col-inner "><div class="ves-container   " style=";;margin:30px 0 0"><div><div class="ves-inner   "><div class="row row-level-2  "><div class="row-inner clearfix "><div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "><div class="col-inner "><div><div class="block widget ves-widget imageslider-widget "><div class="block-content"><ul id="imageslider-127261561362385" class="owl-carousel"><li class="slider-block"><div class="text-slide"><h1>Essentials</h1><h2>Be quick! Only 150 Smart bands avaiable at this sale price</h2><a class="btn hidden-xs" href="apollo-running-short-33-black.html">VIEW DETAIL</a></div><p><img src="http://127.0.1.1/venus/pub/media/wysiwyg/ves_global/slidershow/slide01.jpg" alt=""/></p></li><li class="slider-block"><div class="text-slide"><h1>Essentials</h1><h2>Be quick! Only 150 Smart bands avaiable at this sale price</h2><a class="btn hidden-xs" href="http://127.0.1.1/venus/atomic-endurance-running-tee-v-neck-s-blue.html/">VIEW DETAIL</a></div><p><img src="http://127.0.1.1/venus/pub/media/wysiwyg/ves_global/slidershow/slide02.jpg" alt=""/></p></li><li class="slider-block"><div class="text-slide"><h1>Essentials</h1><h2>Be quick! Only 150 Smart bands avaiable at this sale price</h2><a class="btn hidden-xs" href="apollo-running-short-33-black.html">VIEW DETAIL</a></div><p><img src="http://127.0.1.1/venus/pub/media/wysiwyg/ves_global/slidershow/slide03.jpg" alt=""/></p></li></ul></div></div><script>require([
+		'jquery'
+		],function(){
+			jQuery(document).ready(function() {
+				var owl = jQuery('#imageslider-127261561362385');
+				owl.owlCarousel({
+					animateOut: "fadeOut",
+					animateIn: "fadeIn",
+					items:1,
+					dots: false,
+					nav: true,
+					loop: true,
+					autoplay: true,
+					autoplayTimeout: 5000,
+					autoplaySpeed: 800,
+					navSpeed:  5000,
+					dotsSpeed: 5000,
+					autoplayHoverPause: true,
+					autoHeight: false,
+					lazyLoad: false,
+					touchDrag: true,
+					mouseDrag: true,
+					pullDrag: true,
+				});
+				jQuery(".prev127261561362385").click(function () {
+					owl.trigger('prev.owl.carousel');
+				});
+				jQuery(".next127261561362385").click(function () {
+					owl.trigger('next.owl.carousel');
+				});
+			});
+});</script></div></div></div></div></div></div></div></div><div class="ves-container   " style=";"><div><div class="ves-inner   "><div class="row row-level-1  "><div class="row-inner clearfix "><div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12  "><div class="col-inner "><div><div class="widget-images block   "><div class="widget-inner block-content clearfix"><div class="image-item"><a href="™ια¶i" class="ves-btnlink img-animation" title="Image"><img src="http://127.0.1.1/venus/pub/media/wysiwyg/ves_global/banner/banner01.jpg" class="img-responsive  right-block " alt="Image"/></a></div></div></div><script type="text/javascript"></script></div></div></div><div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12  "><div class="col-inner "><div><div class="widget-images block   "><div class="widget-inner block-content clearfix"><div class="image-item"><a href="Β‰f" class="ves-btnlink img-animation" title="Image"><img src="http://127.0.1.1/venus/pub/media/wysiwyg/ves_global/banner/banner02.jpg" class="img-responsive  right-block " alt="Image"/></a></div></div></div><script type="text/javascript"></script></div></div></div><div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12  "><div class="col-inner "><div><div class="widget-images block   "><div class="widget-inner block-content clearfix"><div class="image-item"><a href="ζ«†Ω¥" class="ves-btnlink img-animation" title="Image"><img src="http://127.0.1.1/venus/pub/media/wysiwyg/ves_global/banner/banner03.jpg" class="img-responsive  right-block " alt="Image"/></a></div></div></div><script type="text/javascript"></script></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="ves-container   " style=";"><div><div class="ves-inner   block-theme" style="background-color:#fff"><div class="row row-level-1  "><div class="row-inner clearfix "><div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  col-default"><div class="col-inner "><div><div class="ves-widget widget-contenthtml block "><div class="block-title"><strong><span><i class='zmdi zmdi-book-image'></i>Bestseller Products</span></strong></div></div></div></div></div><div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12 no-padding-right "><div class="col-inner "><div><div id="productlist-235491561362387" class="block widget ves-widget productlist-widget productlist-easytab-play widget-product-deals2 product-style2"><div id="easytab-235491561362387" class="block-content" data-animate="true" data-animation-speed="0" data-collapsible="false" data-cycle="false" data-transition-in="fadeIn" data-transition-in-easing="swing" data-transition-out="fadeOut" data-transition-out-easing="swing" data-event="click"><ul class="etabs"><li class="nav-item tab hidden-etabs" id="tab-productlist-special-298471561362391"><a href="#productlist-special-298471561362391"></a></li></ul><div class="tab-content productlist-owlcarousel-play" id="productlist-owlcarousel-235491561362387" data-nav="false" data-dot="false" data-autoplay="false" data-autoplay-timeout="3000" data-mobile-items="1" data-tablet-small-items="1" data-tablet-items="1" data-portrait-items="1" data-large-items="1" data-large-max-items="1" data-rtl="false" data-loop="false" data-nav-text-owlpre="" data-nav-text-owlnext=""><div id="productlist-special-298471561362391" class="ves-products-grid grid  hidden-etabs"><div class="owl-carousel product-items"><div class="product-block"><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/antonia-racer-tank-xs-yellow.html" title="Antonia Racer Tank-XS-Yellow" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/317x/e9c3970ab036de70892d86c6d221abfe/v/e/venus115_1.jpg" alt="Antonia Racer Tank-XS-Yellow"/></a><a href="http://127.0.1.1/venus/antonia-racer-tank-xs-yellow.html" title="Antonia Racer Tank-XS-Yellow" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/317x/e9c3970ab036de70892d86c6d221abfe/v/e/venus116.jpg" alt="Antonia Racer Tank-XS-Yellow"/></a></div><div id="product-number156136239115981" data-productid="1788" style="display:none" class="product-cartitem vesproduct-cartnumber1788 product-cartnumber1788">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-156136239115981" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1788/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1788"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xNzg4Lw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action156136239115981 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1788" class="qty156136239115981 product-cartitem product-cartnumber1788" value="0"/><div id="product-cart156136239115981" data-productid="1788" class="product-cartitem product-cartnumber1788">0</div><span class="add-down add-action add-action156136239115981 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action156136239115981").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty156136239115981").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty156136239115981").val()) + 1;
+                                                    jQuery(".qty156136239115981").val(qty);
+                                                    jQuery('.product-cartnumber'+1788).html(qty);
+                                                    jQuery('.product-cartnumber'+1788).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1788').show();
+                                                    }
+                                                    jQuery('#productlist-156136239115981').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty156136239115981").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-156136239115981').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty156136239115981").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1788).html(qty);
+                                                    jQuery('.product-cartnumber'+1788).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1788').hide();
+                                                    }
+                                                    jQuery('#productlist-156136239115981').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div><div class="actions-secondary" data-role="add-to-links"><a href="javascript:void(0)" id="productlist-fancybox-156136239115981" title="Antonia Racer Tank-XS-Yellow" data-fancybox-href="http://127.0.1.1/venus/productlist/index/quickview/id/1788/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="80%" data-fancybox-width="60%" class="quick-view productlist-fancybox"><i class="fa fa-eye"></i></a></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/antonia-racer-tank-xs-yellow.html">Antonia Racer Tank-XS-Yellow</a></div><div class="product-item-inner"><div class="product-item-description">You won't know what you like best about the Antonia Racer Tank: soft, stretchy, lightweight fabric? Super-cute...</div></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1788"><span class="special-price"><span class="price-container price-final_price tax weee"><span class="price-label">Special Price</span><span data-price-amount="26" data-price-type="finalPrice" class="price-wrapper "><span class="price">$26.00</span></span></span></span><span class="old-price"><span class="price-container price-final_price tax weee"><span class="price-label">was</span><span data-price-amount="34" data-price-type="oldPrice" class="price-wrapper "><span class="price">$34.00</span></span></span></span></div></div></div></div><div class="product-block"><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/arcadio-gym-short-34-black.html" title="Arcadio Gym Short-34-Black" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/317x/e9c3970ab036de70892d86c6d221abfe/v/e/venus149_1.jpg" alt="Arcadio Gym Short-34-Black"/></a><a href="http://127.0.1.1/venus/arcadio-gym-short-34-black.html" title="Arcadio Gym Short-34-Black" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/317x/e9c3970ab036de70892d86c6d221abfe/v/e/venus150_1.jpg" alt="Arcadio Gym Short-34-Black"/></a></div><div id="product-number156136239715354" data-productid="1014" style="display:none" class="product-cartitem vesproduct-cartnumber1014 product-cartnumber1014">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-156136239715354" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1014/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1014"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xMDE0Lw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action156136239715354 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1014" class="qty156136239715354 product-cartitem product-cartnumber1014" value="0"/><div id="product-cart156136239715354" data-productid="1014" class="product-cartitem product-cartnumber1014">0</div><span class="add-down add-action add-action156136239715354 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action156136239715354").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty156136239715354").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty156136239715354").val()) + 1;
+                                                    jQuery(".qty156136239715354").val(qty);
+                                                    jQuery('.product-cartnumber'+1014).html(qty);
+                                                    jQuery('.product-cartnumber'+1014).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1014').show();
+                                                    }
+                                                    jQuery('#productlist-156136239715354').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty156136239715354").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-156136239715354').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty156136239715354").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1014).html(qty);
+                                                    jQuery('.product-cartnumber'+1014).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1014').hide();
+                                                    }
+                                                    jQuery('#productlist-156136239715354').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div><div class="actions-secondary" data-role="add-to-links"><a href="javascript:void(0)" id="productlist-fancybox-156136239715354" title="Arcadio Gym Short-34-Black" data-fancybox-href="http://127.0.1.1/venus/productlist/index/quickview/id/1014/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="80%" data-fancybox-width="60%" class="quick-view productlist-fancybox"><i class="fa fa-eye"></i></a></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/arcadio-gym-short-34-black.html">Arcadio Gym Short-34-Black</a></div><div class="product-item-inner"><div class="product-item-description">Reach your limit and keep on going in the Atomic Endurance Running Tee. Built to help any athlete push past the wall...</div></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1014"><span class="special-price"><span class="price-container price-final_price tax weee"><span class="price-label">Special Price</span><span data-price-amount="16" data-price-type="finalPrice" class="price-wrapper "><span class="price">$16.00</span></span></span></span><span class="old-price"><span class="price-container price-final_price tax weee"><span class="price-label">was</span><span data-price-amount="20" data-price-type="oldPrice" class="price-wrapper "><span class="price">$20.00</span></span></span></span></div></div></div></div><div class="product-block"><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/atomic-endurance-running-tee-v-neck-xl-yellow.html" title="Atomic Endurance Running Tee (V-neck)-XL-Yellow" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/317x/e9c3970ab036de70892d86c6d221abfe/v/e/venus107.jpg" alt="Atomic Endurance Running Tee (V-neck)-XL-Yellow"/></a></div><div id="product-number156136239710145" data-productid="498" style="display:none" class="product-cartitem vesproduct-cartnumber498 product-cartnumber498">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-156136239710145" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/498/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="498"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC80OTgv"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action156136239710145 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="498" class="qty156136239710145 product-cartitem product-cartnumber498" value="0"/><div id="product-cart156136239710145" data-productid="498" class="product-cartitem product-cartnumber498">0</div><span class="add-down add-action add-action156136239710145 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action156136239710145").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty156136239710145").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty156136239710145").val()) + 1;
+                                                    jQuery(".qty156136239710145").val(qty);
+                                                    jQuery('.product-cartnumber'+498).html(qty);
+                                                    jQuery('.product-cartnumber'+498).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber498').show();
+                                                    }
+                                                    jQuery('#productlist-156136239710145').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty156136239710145").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-156136239710145').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty156136239710145").val()) - 1;
+                                                    jQuery('.product-cartnumber'+498).html(qty);
+                                                    jQuery('.product-cartnumber'+498).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber498').hide();
+                                                    }
+                                                    jQuery('#productlist-156136239710145').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div><div class="actions-secondary" data-role="add-to-links"><a href="javascript:void(0)" id="productlist-fancybox-156136239710145" title="Atomic Endurance Running Tee (V-neck)-XL-Yellow" data-fancybox-href="http://127.0.1.1/venus/productlist/index/quickview/id/498/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="80%" data-fancybox-width="60%" class="quick-view productlist-fancybox"><i class="fa fa-eye"></i></a></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/atomic-endurance-running-tee-v-neck-xl-yellow.html">Atomic Endurance Running Tee (V-neck)-XL-Yellow</a></div><div class="product-item-inner"><div class="product-item-description">Reach your limit and keep on going in the Atomic Endurance Running Tee. Built to help any athlete push past the wall...</div></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="498"><span class="special-price"><span class="price-container price-final_price tax weee"><span class="price-label">Special Price</span><span data-price-amount="24" data-price-type="finalPrice" class="price-wrapper "><span class="price">$24.00</span></span></span></span><span class="old-price"><span class="price-container price-final_price tax weee"><span class="price-label">was</span><span data-price-amount="28" data-price-type="oldPrice" class="price-wrapper "><span class="price">$28.00</span></span></span></span></div></div></div></div></div></div></div></div><script type="text/javascript"> require([
+        'jquery',
+        'Ves_Productlist/js/jquery.easytabs.min',
+                "Ves_All/lib/owl.carousel/owl.carousel.min",
+                'Ves_Productlist/js/productlist',
+        ], function () {
+            var ajaxUrl = "http://127.0.1.1/venus/productlist/index/product/";
+            easyTabInit("#easytab-235491561362387").bind("easytabs:before",function(e, $clicked, $targetPanel, settings) {
+                jQuery($targetPanel.selector).addClass("paneltab");
+                equalHeight($targetPanel.selector);
+            }).bind("easytabs:after",function(e, $clicked, $targetPanel, settings) {
+                jQuery($targetPanel.selector).removeClass("paneltab");
+            });
+                                                            owlCarouselInit("#productlist-owlcarousel-235491561362387", "#productlist-special-298471561362391 .owl-carousel", "");
+                                                                                                                                        });</script></div></div></div></div><div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12 no-padding-left "><div class="col-inner "><div class=" box box-info  "><div id="productlist-268041561362397" class="block widget ves-widget productlist-widget productlist-easytab-play sidebar"><div id="easytab-268041561362397" class="block-content" data-animate="true" data-animation-speed="0" data-collapsible="false" data-cycle="false" data-transition-in="fadeIn" data-transition-in-easing="swing" data-transition-out="fadeOut" data-transition-out-easing="swing" data-event="click"><ul class="etabs"><li class="nav-item tab " id="tab-productlist-20-107131561362398"><a href="#productlist-20-107131561362398">Women</a></li><li class="nav-item tab " id="tab-productlist-11-80941561362398"><a href="#productlist-11-80941561362398">Men</a></li><li class="nav-item tab " id="tab-productlist-3-190711561362398"><a href="#productlist-3-190711561362398">Gear</a></li></ul><div class="tab-content productlist-owlcarousel-play"
+        id="productlist-carousel-268041561362397"
+        data-nav="true"
+        data-dot="false"
+        data-autoplay="false"
+        data-autoplay-timeout="3000"
+        data-mobile-items="1"
+        data-tablet-small-items="2"
+        data-tablet-items="2"
+        data-portrait-items="2"
+        data-large-items="2"
+        data-large-max-items="2"
+        data-rtl="false"
+        data-loop="false"
+        data-nav-text-owlpre="<i class='fa fa-angle-left'></i>"
+        data-nav-text-owlnext="<i class='fa fa-angle-right'></i>"
+                ><div id="productlist-20-107131561362398" class="ves-products-grid grid  "><div class="owl-carousel product-items"><div class="product-block"><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/downloadable-product.html" title="Downloadable product" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/static/frontend/Venustheme/global/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg" alt="Downloadable product"/></a></div><div id="product-number15613623982709" data-productid="1796" style="display:none" class="product-cartitem vesproduct-cartnumber1796 product-cartnumber1796">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-15613623982709" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1796/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1796"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xNzk2Lw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action15613623982709 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1796" class="qty15613623982709 product-cartitem product-cartnumber1796" value="0"/><div id="product-cart15613623982709" data-productid="1796" class="product-cartitem product-cartnumber1796">0</div><span class="add-down add-action add-action15613623982709 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action15613623982709").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty15613623982709").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty15613623982709").val()) + 1;
+                                                    jQuery(".qty15613623982709").val(qty);
+                                                    jQuery('.product-cartnumber'+1796).html(qty);
+                                                    jQuery('.product-cartnumber'+1796).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1796').show();
+                                                    }
+                                                    jQuery('#productlist-15613623982709').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty15613623982709").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-15613623982709').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty15613623982709").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1796).html(qty);
+                                                    jQuery('.product-cartnumber'+1796).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1796').hide();
+                                                    }
+                                                    jQuery('#productlist-15613623982709').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/downloadable-product.html">Downloadable product</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1796"><span class="price-container price-final_price tax weee"><span data-price-amount="15" data-price-type="finalPrice" class="price-wrapper "><span class="price">$15.00</span></span></span></div></div></div><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/demo-bundle-product-in-stire-code-dt789-aa.html" title="Demo bundle product in stire code DT789_aa" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus129_2.jpg" alt="Demo bundle product in stire code DT789_aa"/></a><a href="http://127.0.1.1/venus/demo-bundle-product-in-stire-code-dt789-aa.html" title="Demo bundle product in stire code DT789_aa" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus128_2.jpg" alt="Demo bundle product in stire code DT789_aa"/></a></div><div id="product-number15613623983995" data-productid="1791" style="display:none" class="product-cartitem vesproduct-cartnumber1791 product-cartnumber1791">0</div><div class="product-item-actions"><div class="actions-primary"><button class="action primary add-to-cart productlist-fancybox" type="button" title="Add to Cart" data-fancybox-href="http://127.0.1.1/venus/productlist/index/quickview/id/1791/" data-fancybox-type="iframe" data-fancybox-width="800" data-fancybox-height="600"><span>Add to Cart</span></button></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/demo-bundle-product-in-stire-code-dt789-aa.html">Demo bundle product in stire code DT789_aa</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1791"><span class="price-container price-final_price tax weee"><span data-price-amount="300" data-price-type="" class="price-wrapper "><span class="price">$300.00</span></span></span></div></div></div><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt.html" title="Ariel Roll Sleeve Sweatshirt" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus128.jpg" alt="Ariel Roll Sleeve Sweatshirt"/></a><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt.html" title="Ariel Roll Sleeve Sweatshirt" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus124.jpg" alt="Ariel Roll Sleeve Sweatshirt"/></a></div><div id="product-number156136239926340" data-productid="1167" style="display:none" class="product-cartitem vesproduct-cartnumber1167 product-cartnumber1167">0</div><div class="product-item-actions"><div class="actions-primary"><button class="action primary add-to-cart productlist-fancybox" type="button" title="Add to Cart" data-fancybox-href="http://127.0.1.1/venus/productlist/index/quickview/id/1167/" data-fancybox-type="iframe" data-fancybox-width="800" data-fancybox-height="600"><span>Add to Cart</span></button></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt.html">Ariel Roll Sleeve Sweatshirt</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1167"><span class="special-price"><span class="price-container price-final_price tax weee"><span class="price-label">Special Price</span><span data-price-amount="31.2" data-price-type="finalPrice" class="price-wrapper "><span class="price">$31.20</span></span></span></span><span class="old-price sly-old-price no-display"><span class="price-container price-final_price tax weee"><span class="price-label">was</span><span data-price-amount="39" data-price-type="oldPrice" class="price-wrapper "><span class="price">$39.00</span></span></span></span></div></div></div></div><div class="product-block"><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/item-product-in-micmart-site-with-simple-type-2.html" title="item product in micmart site with simple type-2" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus140_2.jpg" alt="item product in micmart site with simple type-2"/></a><a href="http://127.0.1.1/venus/item-product-in-micmart-site-with-simple-type-2.html" title="item product in micmart site with simple type-2" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus120_5_1_1.jpg" alt="item product in micmart site with simple type-2"/></a></div><div id="product-number15613624012689" data-productid="1794" style="display:none" class="product-cartitem vesproduct-cartnumber1794 product-cartnumber1794">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-15613624012689" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1794/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1794"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xNzk0Lw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action15613624012689 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1794" class="qty15613624012689 product-cartitem product-cartnumber1794" value="0"/><div id="product-cart15613624012689" data-productid="1794" class="product-cartitem product-cartnumber1794">0</div><span class="add-down add-action add-action15613624012689 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action15613624012689").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty15613624012689").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty15613624012689").val()) + 1;
+                                                    jQuery(".qty15613624012689").val(qty);
+                                                    jQuery('.product-cartnumber'+1794).html(qty);
+                                                    jQuery('.product-cartnumber'+1794).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1794').show();
+                                                    }
+                                                    jQuery('#productlist-15613624012689').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty15613624012689").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-15613624012689').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty15613624012689").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1794).html(qty);
+                                                    jQuery('.product-cartnumber'+1794).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1794').hide();
+                                                    }
+                                                    jQuery('#productlist-15613624012689').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/item-product-in-micmart-site-with-simple-type-2.html">item product in micmart site with simple type-2</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1794"><span class="price-container price-final_price tax weee"><span data-price-amount="40" data-price-type="finalPrice" class="price-wrapper "><span class="price">$40.00</span></span></span></div></div></div><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/demo-grouped-product.html" title="Demo grouped product in site code DT123a" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus133_1.jpg" alt="Demo grouped product in site code DT123a"/></a><a href="http://127.0.1.1/venus/demo-grouped-product.html" title="Demo grouped product in site code DT123a" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus131_1.jpg" alt="Demo grouped product in site code DT123a"/></a></div><div id="product-number156136240132615" data-productid="1789" style="display:none" class="product-cartitem vesproduct-cartnumber1789 product-cartnumber1789">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-156136240132615" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1789/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1789"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xNzg5Lw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action156136240132615 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1789" class="qty156136240132615 product-cartitem product-cartnumber1789" value="0"/><div id="product-cart156136240132615" data-productid="1789" class="product-cartitem product-cartnumber1789">0</div><span class="add-down add-action add-action156136240132615 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action156136240132615").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty156136240132615").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty156136240132615").val()) + 1;
+                                                    jQuery(".qty156136240132615").val(qty);
+                                                    jQuery('.product-cartnumber'+1789).html(qty);
+                                                    jQuery('.product-cartnumber'+1789).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1789').show();
+                                                    }
+                                                    jQuery('#productlist-156136240132615').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty156136240132615").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-156136240132615').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty156136240132615").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1789).html(qty);
+                                                    jQuery('.product-cartnumber'+1789).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1789').hide();
+                                                    }
+                                                    jQuery('#productlist-156136240132615').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/demo-grouped-product.html">Demo grouped product in site code DT123a</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1789"><div class="price-box" itemprop="offers" itemscope itemtype="http://schema.org/Offer"><p class="minimal-price"><span class="price-label">Starting at</span><span class="price-container tax weee"><span data-price-amount="28" data-price-type="" class="price-wrapper "><span class="price">$28.00</span></span></span></p></div></div></div></div><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-xl-red.html" title="Ariel Roll Sleeve Sweatshirt-XL-Red" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus161.jpg" alt="Ariel Roll Sleeve Sweatshirt-XL-Red"/></a><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-xl-red.html" title="Ariel Roll Sleeve Sweatshirt-XL-Red" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus162.jpg" alt="Ariel Roll Sleeve Sweatshirt-XL-Red"/></a></div><div id="product-number156136240219901" data-productid="1166" style="display:none" class="product-cartitem vesproduct-cartnumber1166 product-cartnumber1166">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-156136240219901" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1166/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1166"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xMTY2Lw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action156136240219901 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1166" class="qty156136240219901 product-cartitem product-cartnumber1166" value="0"/><div id="product-cart156136240219901" data-productid="1166" class="product-cartitem product-cartnumber1166">0</div><span class="add-down add-action add-action156136240219901 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action156136240219901").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty156136240219901").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty156136240219901").val()) + 1;
+                                                    jQuery(".qty156136240219901").val(qty);
+                                                    jQuery('.product-cartnumber'+1166).html(qty);
+                                                    jQuery('.product-cartnumber'+1166).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1166').show();
+                                                    }
+                                                    jQuery('#productlist-156136240219901').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty156136240219901").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-156136240219901').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty156136240219901").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1166).html(qty);
+                                                    jQuery('.product-cartnumber'+1166).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1166').hide();
+                                                    }
+                                                    jQuery('#productlist-156136240219901').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-xl-red.html">Ariel Roll Sleeve Sweatshirt-XL-Red</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1166"><span class="price-container price-final_price tax weee"><span data-price-amount="39" data-price-type="finalPrice" class="price-wrapper "><span class="price">$39.00</span></span></span></div></div></div></div><div class="product-block"><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/item-product-in-micmart-site-with-simple-type-1.html" title="item product in micmart site with simple type-1" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus135_1_1.jpg" alt="item product in micmart site with simple type-1"/></a><a href="http://127.0.1.1/venus/item-product-in-micmart-site-with-simple-type-1.html" title="item product in micmart site with simple type-1" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus120_5_1.jpg" alt="item product in micmart site with simple type-1"/></a></div><div id="product-number156136240211011" data-productid="1793" style="display:none" class="product-cartitem vesproduct-cartnumber1793 product-cartnumber1793">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-156136240211011" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1793/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1793"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xNzkzLw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action156136240211011 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1793" class="qty156136240211011 product-cartitem product-cartnumber1793" value="0"/><div id="product-cart156136240211011" data-productid="1793" class="product-cartitem product-cartnumber1793">0</div><span class="add-down add-action add-action156136240211011 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action156136240211011").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty156136240211011").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty156136240211011").val()) + 1;
+                                                    jQuery(".qty156136240211011").val(qty);
+                                                    jQuery('.product-cartnumber'+1793).html(qty);
+                                                    jQuery('.product-cartnumber'+1793).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1793').show();
+                                                    }
+                                                    jQuery('#productlist-156136240211011').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty156136240211011").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-156136240211011').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty156136240211011").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1793).html(qty);
+                                                    jQuery('.product-cartnumber'+1793).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1793').hide();
+                                                    }
+                                                    jQuery('#productlist-156136240211011').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/item-product-in-micmart-site-with-simple-type-1.html">item product in micmart site with simple type-1</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1793"><span class="price-container price-final_price tax weee"><span data-price-amount="40" data-price-type="finalPrice" class="price-wrapper "><span class="price">$40.00</span></span></span></div></div></div><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/antonia-racer-tank-xs-yellow.html" title="Antonia Racer Tank-XS-Yellow" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus115_1.jpg" alt="Antonia Racer Tank-XS-Yellow"/></a><a href="http://127.0.1.1/venus/antonia-racer-tank-xs-yellow.html" title="Antonia Racer Tank-XS-Yellow" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus116.jpg" alt="Antonia Racer Tank-XS-Yellow"/></a></div><div id="product-number15613624032233" data-productid="1788" style="display:none" class="product-cartitem vesproduct-cartnumber1788 product-cartnumber1788">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-15613624032233" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1788/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1788"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xNzg4Lw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action15613624032233 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1788" class="qty15613624032233 product-cartitem product-cartnumber1788" value="0"/><div id="product-cart15613624032233" data-productid="1788" class="product-cartitem product-cartnumber1788">0</div><span class="add-down add-action add-action15613624032233 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action15613624032233").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty15613624032233").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty15613624032233").val()) + 1;
+                                                    jQuery(".qty15613624032233").val(qty);
+                                                    jQuery('.product-cartnumber'+1788).html(qty);
+                                                    jQuery('.product-cartnumber'+1788).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1788').show();
+                                                    }
+                                                    jQuery('#productlist-15613624032233').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty15613624032233").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-15613624032233').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty15613624032233").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1788).html(qty);
+                                                    jQuery('.product-cartnumber'+1788).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1788').hide();
+                                                    }
+                                                    jQuery('#productlist-15613624032233').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/antonia-racer-tank-xs-yellow.html">Antonia Racer Tank-XS-Yellow</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1788"><span class="special-price"><span class="price-container price-final_price tax weee"><span class="price-label">Special Price</span><span data-price-amount="26" data-price-type="finalPrice" class="price-wrapper "><span class="price">$26.00</span></span></span></span><span class="old-price"><span class="price-container price-final_price tax weee"><span class="price-label">was</span><span data-price-amount="34" data-price-type="oldPrice" class="price-wrapper "><span class="price">$34.00</span></span></span></span></div></div></div><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-xl-purple.html" title="Ariel Roll Sleeve Sweatshirt-XL-Purple" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus146.jpg" alt="Ariel Roll Sleeve Sweatshirt-XL-Purple"/></a><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-xl-purple.html" title="Ariel Roll Sleeve Sweatshirt-XL-Purple" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus145.jpg" alt="Ariel Roll Sleeve Sweatshirt-XL-Purple"/></a></div><div id="product-number156136240311948" data-productid="1165" style="display:none" class="product-cartitem vesproduct-cartnumber1165 product-cartnumber1165">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-156136240311948" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1165/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1165"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xMTY1Lw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action156136240311948 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1165" class="qty156136240311948 product-cartitem product-cartnumber1165" value="0"/><div id="product-cart156136240311948" data-productid="1165" class="product-cartitem product-cartnumber1165">0</div><span class="add-down add-action add-action156136240311948 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action156136240311948").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty156136240311948").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty156136240311948").val()) + 1;
+                                                    jQuery(".qty156136240311948").val(qty);
+                                                    jQuery('.product-cartnumber'+1165).html(qty);
+                                                    jQuery('.product-cartnumber'+1165).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1165').show();
+                                                    }
+                                                    jQuery('#productlist-156136240311948').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty156136240311948").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-156136240311948').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty156136240311948").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1165).html(qty);
+                                                    jQuery('.product-cartnumber'+1165).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1165').hide();
+                                                    }
+                                                    jQuery('#productlist-156136240311948').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-xl-purple.html">Ariel Roll Sleeve Sweatshirt-XL-Purple</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1165"><span class="price-container price-final_price tax weee"><span data-price-amount="39" data-price-type="finalPrice" class="price-wrapper "><span class="price">$39.00</span></span></span></div></div></div></div><div class="product-block"><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/item-product-in-micmart-site-with-simple-type.html" title="item product in micmart site with simple type" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus121_2.jpg" alt="item product in micmart site with simple type"/></a><a href="http://127.0.1.1/venus/item-product-in-micmart-site-with-simple-type.html" title="item product in micmart site with simple type" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus120_5.jpg" alt="item product in micmart site with simple type"/></a></div><div id="product-number156136240313066" data-productid="1792" style="display:none" class="product-cartitem vesproduct-cartnumber1792 product-cartnumber1792">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-156136240313066" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1792/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1792"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xNzkyLw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action156136240313066 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1792" class="qty156136240313066 product-cartitem product-cartnumber1792" value="0"/><div id="product-cart156136240313066" data-productid="1792" class="product-cartitem product-cartnumber1792">0</div><span class="add-down add-action add-action156136240313066 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action156136240313066").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty156136240313066").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty156136240313066").val()) + 1;
+                                                    jQuery(".qty156136240313066").val(qty);
+                                                    jQuery('.product-cartnumber'+1792).html(qty);
+                                                    jQuery('.product-cartnumber'+1792).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1792').show();
+                                                    }
+                                                    jQuery('#productlist-156136240313066').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty156136240313066").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-156136240313066').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty156136240313066").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1792).html(qty);
+                                                    jQuery('.product-cartnumber'+1792).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1792').hide();
+                                                    }
+                                                    jQuery('#productlist-156136240313066').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/item-product-in-micmart-site-with-simple-type.html">item product in micmart site with simple type</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1792"><span class="price-container price-final_price tax weee"><span data-price-amount="50" data-price-type="finalPrice" class="price-wrapper "><span class="price">$50.00</span></span></span></div></div></div><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/antonia-racer-tank-xs-purple.html" title="Antonia Racer Tank-XS-Purple" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus177.jpg" alt="Antonia Racer Tank-XS-Purple"/></a></div><div id="product-number15613624032456" data-productid="1787" style="display:none" class="product-cartitem vesproduct-cartnumber1787 product-cartnumber1787">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-15613624032456" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1787/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1787"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xNzg3Lw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action15613624032456 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1787" class="qty15613624032456 product-cartitem product-cartnumber1787" value="0"/><div id="product-cart15613624032456" data-productid="1787" class="product-cartitem product-cartnumber1787">0</div><span class="add-down add-action add-action15613624032456 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action15613624032456").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty15613624032456").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty15613624032456").val()) + 1;
+                                                    jQuery(".qty15613624032456").val(qty);
+                                                    jQuery('.product-cartnumber'+1787).html(qty);
+                                                    jQuery('.product-cartnumber'+1787).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1787').show();
+                                                    }
+                                                    jQuery('#productlist-15613624032456').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty15613624032456").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-15613624032456').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty15613624032456").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1787).html(qty);
+                                                    jQuery('.product-cartnumber'+1787).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1787').hide();
+                                                    }
+                                                    jQuery('#productlist-15613624032456').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/antonia-racer-tank-xs-purple.html">Antonia Racer Tank-XS-Purple</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1787"><span class="price-container price-final_price tax weee"><span data-price-amount="34" data-price-type="finalPrice" class="price-wrapper "><span class="price">$34.00</span></span></span></div></div></div><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-xl-green.html" title="Ariel Roll Sleeve Sweatshirt-XL-Green" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus160_1.jpg" alt="Ariel Roll Sleeve Sweatshirt-XL-Green"/></a></div><div id="product-number156136240330166" data-productid="1164" style="display:none" class="product-cartitem vesproduct-cartnumber1164 product-cartnumber1164">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-156136240330166" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1164/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1164"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xMTY0Lw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action156136240330166 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1164" class="qty156136240330166 product-cartitem product-cartnumber1164" value="0"/><div id="product-cart156136240330166" data-productid="1164" class="product-cartitem product-cartnumber1164">0</div><span class="add-down add-action add-action156136240330166 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action156136240330166").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty156136240330166").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty156136240330166").val()) + 1;
+                                                    jQuery(".qty156136240330166").val(qty);
+                                                    jQuery('.product-cartnumber'+1164).html(qty);
+                                                    jQuery('.product-cartnumber'+1164).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1164').show();
+                                                    }
+                                                    jQuery('#productlist-156136240330166').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty156136240330166").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-156136240330166').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty156136240330166").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1164).html(qty);
+                                                    jQuery('.product-cartnumber'+1164).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1164').hide();
+                                                    }
+                                                    jQuery('#productlist-156136240330166').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-xl-green.html">Ariel Roll Sleeve Sweatshirt-XL-Green</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1164"><span class="price-container price-final_price tax weee"><span data-price-amount="39" data-price-type="finalPrice" class="price-wrapper "><span class="price">$39.00</span></span></span></div></div></div></div></div></div><div id="productlist-11-80941561362398" class="ves-products-grid grid  "><div class="owl-carousel product-items"></div></div><div id="productlist-3-190711561362398" class="ves-products-grid grid  "><div class="owl-carousel product-items"></div></div></div></div><script type="text/javascript"> require([
+        'jquery',
+        'Ves_Productlist/js/jquery.easytabs.min',
+                "Ves_All/lib/owl.carousel/owl.carousel.min",
+                'Ves_Productlist/js/productlist',
+        ], function () {
+            var ajaxUrl = "http://127.0.1.1/venus/productlist/index/categoryProducts/";
+            easyTabInit("#easytab-268041561362397").bind("easytabs:before",function(e, $clicked, $targetPanel, settings) {
+                jQuery($targetPanel.selector).addClass("paneltab");
+                equalHeight($targetPanel.selector);
+            }).bind("easytabs:after",function(e, $clicked, $targetPanel, settings) {
+                jQuery($targetPanel.selector).removeClass("paneltab");
+            });
+                                                            owlCarouselInit("#productlist-carousel-268041561362397", "#productlist-20-107131561362398 .owl-carousel", "");
+                                                                                                                                                                                                                            ajaxClickProduct({"type":"Ves\\Productlist\\Block\\Widget\\CategoryTab","addition_class":"sidebar","productsource":"latest","enable_animate_tab":"1","animation_speed":"normal","cycle":"false","transition_in":"fadeIn","transition_in_easing":"swing","transition_out":"fadeOut","transition_out_easing":"swing","event":"click","show_name":"1","show_price":"1","show_image":"1","image_width":"80","image_height":"89","aspect_ratio":"1","alt_image":"1","alt_image_column":"position","alt_image_column_value":"2","show_addtocart":"1","addtocart_popup_width":"800","addtocart_popup_height":"600","addtocart_format_type":"text","addtocart_format_text":"Add to Cart","addtocart_format_class":"fa fa-shopping-cart","layout_type":"owl_carousel","number_item":"12","number_item_perpage":"3","lg_column_item":"1","md_column_item":"1","sm_column_item":"2","xs_column_item":"1","number_item_percolumn":"3","custom_item_height":"400px","large_max_items":"2","large_items":"2","portrait_items":"2","tablet_items":"2","tablet_small_items":"2","mobile_items":"1","nav":"1","nav_next":"<i class='fa fa-angle-right'> <\/i>","nav_pre":"<i class='fa fa-angle-left'> <\/i>","module_name":"Ves_Productlist","ajaxBlockId":"productlist-carousel-268041561362397","tab":{"category_id":"11","item_title":"Men","item_class":"","ajax_type":"2","position":"3","id":"productlist-11-80941561362398"}}, ajaxUrl);
+                                                                                                                                                                    ajaxClickProduct({"type":"Ves\\Productlist\\Block\\Widget\\CategoryTab","addition_class":"sidebar","productsource":"latest","enable_animate_tab":"1","animation_speed":"normal","cycle":"false","transition_in":"fadeIn","transition_in_easing":"swing","transition_out":"fadeOut","transition_out_easing":"swing","event":"click","show_name":"1","show_price":"1","show_image":"1","image_width":"80","image_height":"89","aspect_ratio":"1","alt_image":"1","alt_image_column":"position","alt_image_column_value":"2","show_addtocart":"1","addtocart_popup_width":"800","addtocart_popup_height":"600","addtocart_format_type":"text","addtocart_format_text":"Add to Cart","addtocart_format_class":"fa fa-shopping-cart","layout_type":"owl_carousel","number_item":"12","number_item_perpage":"3","lg_column_item":"1","md_column_item":"1","sm_column_item":"2","xs_column_item":"1","number_item_percolumn":"3","custom_item_height":"400px","large_max_items":"2","large_items":"2","portrait_items":"2","tablet_items":"2","tablet_small_items":"2","mobile_items":"1","nav":"1","nav_next":"<i class='fa fa-angle-right'> <\/i>","nav_pre":"<i class='fa fa-angle-left'> <\/i>","module_name":"Ves_Productlist","ajaxBlockId":"productlist-carousel-268041561362397","tab":{"category_id":"3","item_title":"Gear","item_class":"","ajax_type":"2","position":"4","id":"productlist-3-190711561362398"}}, ajaxUrl);
+                                                                                });</script></div></div></div></div></div></div></div></div></div><div class="ves-container   " style=";;margin:30px 0 0"><div><div class="ves-inner   "><div class="row row-level-1  "><div class="row-inner clearfix "><div class=" col-lg-6 col-md-6 col-sm-6 col-xs-12  "><div class="col-inner "><div><div class="widget-images block   "><div class="widget-inner block-content clearfix"><div class="image-item"><a href="™ια¶i" class="ves-btnlink img-animation" title="Image"><img src="http://127.0.1.1/venus/pub/media/resized/570x222/wysiwyg/ves_global/banner/banner05.jpg" class="img-responsive  left-block " alt="Image"/></a></div></div></div><script type="text/javascript"></script></div></div></div><div class=" col-lg-6 col-md-6 col-sm-6 col-xs-12  "><div class="col-inner "><div><div class="widget-images block   "><div class="widget-inner block-content clearfix"><div class="image-item"><a href="Β‰f" class="ves-btnlink img-animation" title="Image"><img src="http://127.0.1.1/venus/pub/media/resized/570x222/wysiwyg/ves_global/banner/banner06.jpg" class="img-responsive  left-block " alt="Image"/></a></div></div></div><script type="text/javascript"></script></div></div></div></div></div></div></div></div><div class="ves-container   " style=";"><div><div class="ves-inner   block-theme" style="background-color:#fff"><div class="row row-level-1  "><div class="row-inner clearfix "><div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  col-default"><div class="col-inner "><div><div class="ves-widget widget-contenthtml block "><div class="block-title"><strong><span><i class='zmdi zmdi-book-image'></i>New Products</span></strong></div></div></div></div></div><div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12 no-padding-right "><div class="col-inner "><div><div id="productlist-46491561362403" class="block widget ves-widget productlist-widget productlist-easytab-play widget-product-deals2 product-style2"><div id="easytab-46491561362403" class="block-content" data-animate="true" data-animation-speed="0" data-collapsible="false" data-cycle="false" data-transition-in="fadeIn" data-transition-in-easing="swing" data-transition-out="fadeOut" data-transition-out-easing="swing" data-event="click"><ul class="etabs"><li class="nav-item tab hidden-etabs" id="tab-productlist-random-270541561362403"><a href="#productlist-random-270541561362403"></a></li></ul><div class="tab-content productlist-owlcarousel-play" id="productlist-owlcarousel-46491561362403" data-nav="false" data-dot="false" data-autoplay="false" data-autoplay-timeout="3000" data-mobile-items="1" data-tablet-small-items="1" data-tablet-items="1" data-portrait-items="1" data-large-items="1" data-large-max-items="1" data-rtl="false" data-loop="false" data-nav-text-owlpre="" data-nav-text-owlnext=""><div id="productlist-random-270541561362403" class="ves-products-grid grid  hidden-etabs"><div class="owl-carousel product-items"><div class="product-block"><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/atomic-endurance-running-tee-crew-neck-xl-black.html" title="Atomic Endurance Running Tee (Crew-Neck)-XL-Black" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/317x/e9c3970ab036de70892d86c6d221abfe/v/e/venus118_2.jpg" alt="Atomic Endurance Running Tee (Crew-Neck)-XL-Black"/></a><a href="http://127.0.1.1/venus/atomic-endurance-running-tee-crew-neck-xl-black.html" title="Atomic Endurance Running Tee (Crew-Neck)-XL-Black" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/317x/e9c3970ab036de70892d86c6d221abfe/v/e/venus116_2.jpg" alt="Atomic Endurance Running Tee (Crew-Neck)-XL-Black"/></a></div><div id="product-number15613624036876" data-productid="512" style="display:none" class="product-cartitem vesproduct-cartnumber512 product-cartnumber512">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-15613624036876" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/512/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="512"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC81MTIv"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action15613624036876 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="512" class="qty15613624036876 product-cartitem product-cartnumber512" value="0"/><div id="product-cart15613624036876" data-productid="512" class="product-cartitem product-cartnumber512">0</div><span class="add-down add-action add-action15613624036876 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action15613624036876").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty15613624036876").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty15613624036876").val()) + 1;
+                                                    jQuery(".qty15613624036876").val(qty);
+                                                    jQuery('.product-cartnumber'+512).html(qty);
+                                                    jQuery('.product-cartnumber'+512).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber512').show();
+                                                    }
+                                                    jQuery('#productlist-15613624036876').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty15613624036876").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-15613624036876').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty15613624036876").val()) - 1;
+                                                    jQuery('.product-cartnumber'+512).html(qty);
+                                                    jQuery('.product-cartnumber'+512).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber512').hide();
+                                                    }
+                                                    jQuery('#productlist-15613624036876').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div><div class="actions-secondary" data-role="add-to-links"><a href="javascript:void(0)" id="productlist-fancybox-15613624036876" title="Atomic Endurance Running Tee (Crew-Neck)-XL-Black" data-fancybox-href="http://127.0.1.1/venus/productlist/index/quickview/id/512/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="80%" data-fancybox-width="60%" class="quick-view productlist-fancybox"><i class="fa fa-eye"></i></a></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/atomic-endurance-running-tee-crew-neck-xl-black.html">Atomic Endurance Running Tee (Crew-Neck)-XL-Black</a></div><div class="product-item-inner"><div class="product-item-description">Reach your limit and keep on going in the Atomic Endurance Running Tee. Built to help any athlete push past the wall...</div></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="512"><span class="price-container price-final_price tax weee"><span data-price-amount="29" data-price-type="finalPrice" class="price-wrapper "><span class="price">$29.00</span></span></span></div></div></div></div><div class="product-block"><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/atomic-endurance-running-tee-crew-neck-m-red.html" title="Atomic Endurance Running Tee (Crew-Neck)-M-Red" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/317x/e9c3970ab036de70892d86c6d221abfe/v/e/venus120.jpg" alt="Atomic Endurance Running Tee (Crew-Neck)-M-Red"/></a><a href="http://127.0.1.1/venus/atomic-endurance-running-tee-crew-neck-m-red.html" title="Atomic Endurance Running Tee (Crew-Neck)-M-Red" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/317x/e9c3970ab036de70892d86c6d221abfe/v/e/venus121.jpg" alt="Atomic Endurance Running Tee (Crew-Neck)-M-Red"/></a></div><div id="product-number156136240429370" data-productid="508" style="display:none" class="product-cartitem vesproduct-cartnumber508 product-cartnumber508">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-156136240429370" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/508/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="508"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC81MDgv"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action156136240429370 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="508" class="qty156136240429370 product-cartitem product-cartnumber508" value="0"/><div id="product-cart156136240429370" data-productid="508" class="product-cartitem product-cartnumber508">0</div><span class="add-down add-action add-action156136240429370 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action156136240429370").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty156136240429370").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty156136240429370").val()) + 1;
+                                                    jQuery(".qty156136240429370").val(qty);
+                                                    jQuery('.product-cartnumber'+508).html(qty);
+                                                    jQuery('.product-cartnumber'+508).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber508').show();
+                                                    }
+                                                    jQuery('#productlist-156136240429370').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty156136240429370").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-156136240429370').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty156136240429370").val()) - 1;
+                                                    jQuery('.product-cartnumber'+508).html(qty);
+                                                    jQuery('.product-cartnumber'+508).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber508').hide();
+                                                    }
+                                                    jQuery('#productlist-156136240429370').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div><div class="actions-secondary" data-role="add-to-links"><a href="javascript:void(0)" id="productlist-fancybox-156136240429370" title="Atomic Endurance Running Tee (Crew-Neck)-M-Red" data-fancybox-href="http://127.0.1.1/venus/productlist/index/quickview/id/508/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="80%" data-fancybox-width="60%" class="quick-view productlist-fancybox"><i class="fa fa-eye"></i></a></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/atomic-endurance-running-tee-crew-neck-m-red.html">Atomic Endurance Running Tee (Crew-Neck)-M-Red</a></div><div class="product-item-inner"><div class="product-item-description">Reach your limit and keep on going in the Atomic Endurance Running Tee. Built to help any athlete push past the wall...</div></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="508"><span class="price-container price-final_price tax weee"><span data-price-amount="29" data-price-type="finalPrice" class="price-wrapper "><span class="price">$29.00</span></span></span></div></div></div></div><div class="product-block"><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/atomic-endurance-running-tee-v-neck-l-blue.html" title="Atomic Endurance Running Tee (V-neck)-L-Blue" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/317x/e9c3970ab036de70892d86c6d221abfe/v/e/venus119.jpg" alt="Atomic Endurance Running Tee (V-neck)-L-Blue"/></a></div><div id="product-number15613624042248" data-productid="493" style="display:none" class="product-cartitem vesproduct-cartnumber493 product-cartnumber493">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-15613624042248" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/493/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="493"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC80OTMv"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action15613624042248 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="493" class="qty15613624042248 product-cartitem product-cartnumber493" value="0"/><div id="product-cart15613624042248" data-productid="493" class="product-cartitem product-cartnumber493">0</div><span class="add-down add-action add-action15613624042248 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action15613624042248").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty15613624042248").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty15613624042248").val()) + 1;
+                                                    jQuery(".qty15613624042248").val(qty);
+                                                    jQuery('.product-cartnumber'+493).html(qty);
+                                                    jQuery('.product-cartnumber'+493).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber493').show();
+                                                    }
+                                                    jQuery('#productlist-15613624042248').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty15613624042248").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-15613624042248').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty15613624042248").val()) - 1;
+                                                    jQuery('.product-cartnumber'+493).html(qty);
+                                                    jQuery('.product-cartnumber'+493).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber493').hide();
+                                                    }
+                                                    jQuery('#productlist-15613624042248').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div><div class="actions-secondary" data-role="add-to-links"><a href="javascript:void(0)" id="productlist-fancybox-15613624042248" title="Atomic Endurance Running Tee (V-neck)-L-Blue" data-fancybox-href="http://127.0.1.1/venus/productlist/index/quickview/id/493/" data-fancybox-type="iframe" onclick="return false;" data-fancybox-height="80%" data-fancybox-width="60%" class="quick-view productlist-fancybox"><i class="fa fa-eye"></i></a></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/atomic-endurance-running-tee-v-neck-l-blue.html">Atomic Endurance Running Tee (V-neck)-L-Blue</a></div><div class="product-item-inner"><div class="product-item-description">You won't know what you like best about the Antonia Racer Tank: soft, stretchy, lightweight fabric? Super-cute...</div></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="493"><span class="price-container price-final_price tax weee"><span data-price-amount="28" data-price-type="finalPrice" class="price-wrapper "><span class="price">$28.00</span></span></span></div></div></div></div></div></div></div></div><script type="text/javascript"> require([
+        'jquery',
+        'Ves_Productlist/js/jquery.easytabs.min',
+                "Ves_All/lib/owl.carousel/owl.carousel.min",
+                'Ves_Productlist/js/productlist',
+        ], function () {
+            var ajaxUrl = "http://127.0.1.1/venus/productlist/index/product/";
+            easyTabInit("#easytab-46491561362403").bind("easytabs:before",function(e, $clicked, $targetPanel, settings) {
+                jQuery($targetPanel.selector).addClass("paneltab");
+                equalHeight($targetPanel.selector);
+            }).bind("easytabs:after",function(e, $clicked, $targetPanel, settings) {
+                jQuery($targetPanel.selector).removeClass("paneltab");
+            });
+                                                            owlCarouselInit("#productlist-owlcarousel-46491561362403", "#productlist-random-270541561362403 .owl-carousel", "");
+                                                                                                                                        });</script></div></div></div></div><div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12 no-padding-left "><div class="col-inner "><div class=" box box-info  "><div id="productlist-1341561362405" class="block widget ves-widget productlist-widget productlist-easytab-play sidebar"><div id="easytab-1341561362405" class="block-content" data-animate="true" data-animation-speed="0" data-collapsible="false" data-cycle="false" data-transition-in="fadeIn" data-transition-in-easing="swing" data-transition-out="fadeOut" data-transition-out-easing="swing" data-event="click"><ul class="etabs"><li class="nav-item tab " id="tab-productlist-24-156871561362405"><a href="#productlist-24-156871561362405">Women</a></li><li class="nav-item tab " id="tab-productlist-27-269961561362405"><a href="#productlist-27-269961561362405">Men</a></li><li class="nav-item tab " id="tab-productlist-28-283171561362405"><a href="#productlist-28-283171561362405">Gear</a></li></ul><div class="tab-content productlist-owlcarousel-play"
+        id="productlist-carousel-1341561362405"
+        data-nav="true"
+        data-dot="false"
+        data-autoplay="false"
+        data-autoplay-timeout="3000"
+        data-mobile-items="1"
+        data-tablet-small-items="2"
+        data-tablet-items="2"
+        data-portrait-items="2"
+        data-large-items="2"
+        data-large-max-items="2"
+        data-rtl="false"
+        data-loop="false"
+        data-nav-text-owlpre="<i class='fa fa-angle-left'></i>"
+        data-nav-text-owlnext="<i class='fa fa-angle-right'></i>"
+                ><div id="productlist-24-156871561362405" class="ves-products-grid grid  "><div class="owl-carousel product-items"><div class="product-block"><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt.html" title="Ariel Roll Sleeve Sweatshirt" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus128.jpg" alt="Ariel Roll Sleeve Sweatshirt"/></a><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt.html" title="Ariel Roll Sleeve Sweatshirt" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus124.jpg" alt="Ariel Roll Sleeve Sweatshirt"/></a></div><div id="product-number156136240526339" data-productid="1167" style="display:none" class="product-cartitem vesproduct-cartnumber1167 product-cartnumber1167">0</div><div class="product-item-actions"><div class="actions-primary"><button class="action primary add-to-cart productlist-fancybox" type="button" title="Add to Cart" data-fancybox-href="http://127.0.1.1/venus/productlist/index/quickview/id/1167/" data-fancybox-type="iframe" data-fancybox-width="800" data-fancybox-height="600"><span>Add to Cart</span></button></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt.html">Ariel Roll Sleeve Sweatshirt</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1167"><span class="special-price"><span class="price-container price-final_price tax weee"><span class="price-label">Special Price</span><span data-price-amount="31.2" data-price-type="finalPrice" class="price-wrapper "><span class="price">$31.20</span></span></span></span><span class="old-price sly-old-price no-display"><span class="price-container price-final_price tax weee"><span class="price-label">was</span><span data-price-amount="39" data-price-type="oldPrice" class="price-wrapper "><span class="price">$39.00</span></span></span></span></div></div></div><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-l-red.html" title="Ariel Roll Sleeve Sweatshirt-L-Red" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus135.jpg" alt="Ariel Roll Sleeve Sweatshirt-L-Red"/></a><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-l-red.html" title="Ariel Roll Sleeve Sweatshirt-L-Red" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus136.jpg" alt="Ariel Roll Sleeve Sweatshirt-L-Red"/></a></div><div id="product-number15613624056750" data-productid="1163" style="display:none" class="product-cartitem vesproduct-cartnumber1163 product-cartnumber1163">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-15613624056750" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1163/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1163"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xMTYzLw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action15613624056750 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1163" class="qty15613624056750 product-cartitem product-cartnumber1163" value="0"/><div id="product-cart15613624056750" data-productid="1163" class="product-cartitem product-cartnumber1163">0</div><span class="add-down add-action add-action15613624056750 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action15613624056750").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty15613624056750").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty15613624056750").val()) + 1;
+                                                    jQuery(".qty15613624056750").val(qty);
+                                                    jQuery('.product-cartnumber'+1163).html(qty);
+                                                    jQuery('.product-cartnumber'+1163).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1163').show();
+                                                    }
+                                                    jQuery('#productlist-15613624056750').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty15613624056750").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-15613624056750').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty15613624056750").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1163).html(qty);
+                                                    jQuery('.product-cartnumber'+1163).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1163').hide();
+                                                    }
+                                                    jQuery('#productlist-15613624056750').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-l-red.html">Ariel Roll Sleeve Sweatshirt-L-Red</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1163"><span class="price-container price-final_price tax weee"><span data-price-amount="39" data-price-type="finalPrice" class="price-wrapper "><span class="price">$39.00</span></span></span></div></div></div><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-m-purple.html" title="Ariel Roll Sleeve Sweatshirt-M-Purple" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus117_2.jpg" alt="Ariel Roll Sleeve Sweatshirt-M-Purple"/></a><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-m-purple.html" title="Ariel Roll Sleeve Sweatshirt-M-Purple" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus118.jpg" alt="Ariel Roll Sleeve Sweatshirt-M-Purple"/></a></div><div id="product-number156136240529452" data-productid="1159" style="display:none" class="product-cartitem vesproduct-cartnumber1159 product-cartnumber1159">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-156136240529452" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1159/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1159"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xMTU5Lw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action156136240529452 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1159" class="qty156136240529452 product-cartitem product-cartnumber1159" value="0"/><div id="product-cart156136240529452" data-productid="1159" class="product-cartitem product-cartnumber1159">0</div><span class="add-down add-action add-action156136240529452 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action156136240529452").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty156136240529452").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty156136240529452").val()) + 1;
+                                                    jQuery(".qty156136240529452").val(qty);
+                                                    jQuery('.product-cartnumber'+1159).html(qty);
+                                                    jQuery('.product-cartnumber'+1159).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1159').show();
+                                                    }
+                                                    jQuery('#productlist-156136240529452').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty156136240529452").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-156136240529452').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty156136240529452").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1159).html(qty);
+                                                    jQuery('.product-cartnumber'+1159).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1159').hide();
+                                                    }
+                                                    jQuery('#productlist-156136240529452').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-m-purple.html">Ariel Roll Sleeve Sweatshirt-M-Purple</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1159"><span class="price-container price-final_price tax weee"><span data-price-amount="39" data-price-type="finalPrice" class="price-wrapper "><span class="price">$39.00</span></span></span></div></div></div></div><div class="product-block"><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-xl-red.html" title="Ariel Roll Sleeve Sweatshirt-XL-Red" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus161.jpg" alt="Ariel Roll Sleeve Sweatshirt-XL-Red"/></a><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-xl-red.html" title="Ariel Roll Sleeve Sweatshirt-XL-Red" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus162.jpg" alt="Ariel Roll Sleeve Sweatshirt-XL-Red"/></a></div><div id="product-number156136240532362" data-productid="1166" style="display:none" class="product-cartitem vesproduct-cartnumber1166 product-cartnumber1166">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-156136240532362" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1166/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1166"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xMTY2Lw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action156136240532362 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1166" class="qty156136240532362 product-cartitem product-cartnumber1166" value="0"/><div id="product-cart156136240532362" data-productid="1166" class="product-cartitem product-cartnumber1166">0</div><span class="add-down add-action add-action156136240532362 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action156136240532362").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty156136240532362").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty156136240532362").val()) + 1;
+                                                    jQuery(".qty156136240532362").val(qty);
+                                                    jQuery('.product-cartnumber'+1166).html(qty);
+                                                    jQuery('.product-cartnumber'+1166).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1166').show();
+                                                    }
+                                                    jQuery('#productlist-156136240532362').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty156136240532362").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-156136240532362').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty156136240532362").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1166).html(qty);
+                                                    jQuery('.product-cartnumber'+1166).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1166').hide();
+                                                    }
+                                                    jQuery('#productlist-156136240532362').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-xl-red.html">Ariel Roll Sleeve Sweatshirt-XL-Red</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1166"><span class="price-container price-final_price tax weee"><span data-price-amount="39" data-price-type="finalPrice" class="price-wrapper "><span class="price">$39.00</span></span></span></div></div></div><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-l-purple.html" title="Ariel Roll Sleeve Sweatshirt-L-Purple" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus151.jpg" alt="Ariel Roll Sleeve Sweatshirt-L-Purple"/></a><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-l-purple.html" title="Ariel Roll Sleeve Sweatshirt-L-Purple" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus149.jpg" alt="Ariel Roll Sleeve Sweatshirt-L-Purple"/></a></div><div id="product-number156136240513304" data-productid="1162" style="display:none" class="product-cartitem vesproduct-cartnumber1162 product-cartnumber1162">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-156136240513304" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1162/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1162"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xMTYyLw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action156136240513304 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1162" class="qty156136240513304 product-cartitem product-cartnumber1162" value="0"/><div id="product-cart156136240513304" data-productid="1162" class="product-cartitem product-cartnumber1162">0</div><span class="add-down add-action add-action156136240513304 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action156136240513304").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty156136240513304").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty156136240513304").val()) + 1;
+                                                    jQuery(".qty156136240513304").val(qty);
+                                                    jQuery('.product-cartnumber'+1162).html(qty);
+                                                    jQuery('.product-cartnumber'+1162).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1162').show();
+                                                    }
+                                                    jQuery('#productlist-156136240513304').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty156136240513304").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-156136240513304').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty156136240513304").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1162).html(qty);
+                                                    jQuery('.product-cartnumber'+1162).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1162').hide();
+                                                    }
+                                                    jQuery('#productlist-156136240513304').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-l-purple.html">Ariel Roll Sleeve Sweatshirt-L-Purple</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1162"><span class="price-container price-final_price tax weee"><span data-price-amount="39" data-price-type="finalPrice" class="price-wrapper "><span class="price">$39.00</span></span></span></div></div></div><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-m-green.html" title="Ariel Roll Sleeve Sweatshirt-M-Green" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus108_1.jpg" alt="Ariel Roll Sleeve Sweatshirt-M-Green"/></a></div><div id="product-number15613624055942" data-productid="1158" style="display:none" class="product-cartitem vesproduct-cartnumber1158 product-cartnumber1158">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-15613624055942" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1158/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1158"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xMTU4Lw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action15613624055942 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1158" class="qty15613624055942 product-cartitem product-cartnumber1158" value="0"/><div id="product-cart15613624055942" data-productid="1158" class="product-cartitem product-cartnumber1158">0</div><span class="add-down add-action add-action15613624055942 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action15613624055942").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty15613624055942").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty15613624055942").val()) + 1;
+                                                    jQuery(".qty15613624055942").val(qty);
+                                                    jQuery('.product-cartnumber'+1158).html(qty);
+                                                    jQuery('.product-cartnumber'+1158).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1158').show();
+                                                    }
+                                                    jQuery('#productlist-15613624055942').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty15613624055942").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-15613624055942').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty15613624055942").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1158).html(qty);
+                                                    jQuery('.product-cartnumber'+1158).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1158').hide();
+                                                    }
+                                                    jQuery('#productlist-15613624055942').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-m-green.html">Ariel Roll Sleeve Sweatshirt-M-Green</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1158"><span class="price-container price-final_price tax weee"><span data-price-amount="39" data-price-type="finalPrice" class="price-wrapper "><span class="price">$39.00</span></span></span></div></div></div></div><div class="product-block"><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-xl-purple.html" title="Ariel Roll Sleeve Sweatshirt-XL-Purple" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus146.jpg" alt="Ariel Roll Sleeve Sweatshirt-XL-Purple"/></a><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-xl-purple.html" title="Ariel Roll Sleeve Sweatshirt-XL-Purple" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus145.jpg" alt="Ariel Roll Sleeve Sweatshirt-XL-Purple"/></a></div><div id="product-number15613624056052" data-productid="1165" style="display:none" class="product-cartitem vesproduct-cartnumber1165 product-cartnumber1165">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-15613624056052" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1165/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1165"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xMTY1Lw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action15613624056052 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1165" class="qty15613624056052 product-cartitem product-cartnumber1165" value="0"/><div id="product-cart15613624056052" data-productid="1165" class="product-cartitem product-cartnumber1165">0</div><span class="add-down add-action add-action15613624056052 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action15613624056052").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty15613624056052").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty15613624056052").val()) + 1;
+                                                    jQuery(".qty15613624056052").val(qty);
+                                                    jQuery('.product-cartnumber'+1165).html(qty);
+                                                    jQuery('.product-cartnumber'+1165).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1165').show();
+                                                    }
+                                                    jQuery('#productlist-15613624056052').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty15613624056052").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-15613624056052').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty15613624056052").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1165).html(qty);
+                                                    jQuery('.product-cartnumber'+1165).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1165').hide();
+                                                    }
+                                                    jQuery('#productlist-15613624056052').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-xl-purple.html">Ariel Roll Sleeve Sweatshirt-XL-Purple</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1165"><span class="price-container price-final_price tax weee"><span data-price-amount="39" data-price-type="finalPrice" class="price-wrapper "><span class="price">$39.00</span></span></span></div></div></div><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-l-green.html" title="Ariel Roll Sleeve Sweatshirt-L-Green" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus158.jpg" alt="Ariel Roll Sleeve Sweatshirt-L-Green"/></a></div><div id="product-number156136240528866" data-productid="1161" style="display:none" class="product-cartitem vesproduct-cartnumber1161 product-cartnumber1161">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-156136240528866" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1161/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1161"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xMTYxLw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action156136240528866 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1161" class="qty156136240528866 product-cartitem product-cartnumber1161" value="0"/><div id="product-cart156136240528866" data-productid="1161" class="product-cartitem product-cartnumber1161">0</div><span class="add-down add-action add-action156136240528866 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action156136240528866").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty156136240528866").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty156136240528866").val()) + 1;
+                                                    jQuery(".qty156136240528866").val(qty);
+                                                    jQuery('.product-cartnumber'+1161).html(qty);
+                                                    jQuery('.product-cartnumber'+1161).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1161').show();
+                                                    }
+                                                    jQuery('#productlist-156136240528866').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty156136240528866").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-156136240528866').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty156136240528866").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1161).html(qty);
+                                                    jQuery('.product-cartnumber'+1161).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1161').hide();
+                                                    }
+                                                    jQuery('#productlist-156136240528866').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-l-green.html">Ariel Roll Sleeve Sweatshirt-L-Green</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1161"><span class="price-container price-final_price tax weee"><span data-price-amount="39" data-price-type="finalPrice" class="price-wrapper "><span class="price">$39.00</span></span></span></div></div></div><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-s-red.html" title="Ariel Roll Sleeve Sweatshirt-S-Red" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus113.jpg" alt="Ariel Roll Sleeve Sweatshirt-S-Red"/></a></div><div id="product-number15613624052576" data-productid="1157" style="display:none" class="product-cartitem vesproduct-cartnumber1157 product-cartnumber1157">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-15613624052576" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1157/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1157"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xMTU3Lw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action15613624052576 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1157" class="qty15613624052576 product-cartitem product-cartnumber1157" value="0"/><div id="product-cart15613624052576" data-productid="1157" class="product-cartitem product-cartnumber1157">0</div><span class="add-down add-action add-action15613624052576 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action15613624052576").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty15613624052576").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty15613624052576").val()) + 1;
+                                                    jQuery(".qty15613624052576").val(qty);
+                                                    jQuery('.product-cartnumber'+1157).html(qty);
+                                                    jQuery('.product-cartnumber'+1157).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1157').show();
+                                                    }
+                                                    jQuery('#productlist-15613624052576').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty15613624052576").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-15613624052576').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty15613624052576").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1157).html(qty);
+                                                    jQuery('.product-cartnumber'+1157).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1157').hide();
+                                                    }
+                                                    jQuery('#productlist-15613624052576').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-s-red.html">Ariel Roll Sleeve Sweatshirt-S-Red</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1157"><span class="price-container price-final_price tax weee"><span data-price-amount="39" data-price-type="finalPrice" class="price-wrapper "><span class="price">$39.00</span></span></span></div></div></div></div><div class="product-block"><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-xl-green.html" title="Ariel Roll Sleeve Sweatshirt-XL-Green" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus160_1.jpg" alt="Ariel Roll Sleeve Sweatshirt-XL-Green"/></a></div><div id="product-number156136240522286" data-productid="1164" style="display:none" class="product-cartitem vesproduct-cartnumber1164 product-cartnumber1164">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-156136240522286" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1164/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1164"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xMTY0Lw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action156136240522286 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1164" class="qty156136240522286 product-cartitem product-cartnumber1164" value="0"/><div id="product-cart156136240522286" data-productid="1164" class="product-cartitem product-cartnumber1164">0</div><span class="add-down add-action add-action156136240522286 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action156136240522286").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty156136240522286").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty156136240522286").val()) + 1;
+                                                    jQuery(".qty156136240522286").val(qty);
+                                                    jQuery('.product-cartnumber'+1164).html(qty);
+                                                    jQuery('.product-cartnumber'+1164).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1164').show();
+                                                    }
+                                                    jQuery('#productlist-156136240522286').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty156136240522286").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-156136240522286').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty156136240522286").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1164).html(qty);
+                                                    jQuery('.product-cartnumber'+1164).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1164').hide();
+                                                    }
+                                                    jQuery('#productlist-156136240522286').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-xl-green.html">Ariel Roll Sleeve Sweatshirt-XL-Green</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1164"><span class="price-container price-final_price tax weee"><span data-price-amount="39" data-price-type="finalPrice" class="price-wrapper "><span class="price">$39.00</span></span></span></div></div></div><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-m-red.html" title="Ariel Roll Sleeve Sweatshirt-M-Red" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus167_1.jpg" alt="Ariel Roll Sleeve Sweatshirt-M-Red"/></a></div><div id="product-number156136240514140" data-productid="1160" style="display:none" class="product-cartitem vesproduct-cartnumber1160 product-cartnumber1160">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-156136240514140" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1160/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1160"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xMTYwLw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action156136240514140 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1160" class="qty156136240514140 product-cartitem product-cartnumber1160" value="0"/><div id="product-cart156136240514140" data-productid="1160" class="product-cartitem product-cartnumber1160">0</div><span class="add-down add-action add-action156136240514140 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action156136240514140").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty156136240514140").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty156136240514140").val()) + 1;
+                                                    jQuery(".qty156136240514140").val(qty);
+                                                    jQuery('.product-cartnumber'+1160).html(qty);
+                                                    jQuery('.product-cartnumber'+1160).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1160').show();
+                                                    }
+                                                    jQuery('#productlist-156136240514140').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty156136240514140").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-156136240514140').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty156136240514140").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1160).html(qty);
+                                                    jQuery('.product-cartnumber'+1160).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1160').hide();
+                                                    }
+                                                    jQuery('#productlist-156136240514140').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-m-red.html">Ariel Roll Sleeve Sweatshirt-M-Red</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1160"><span class="price-container price-final_price tax weee"><span data-price-amount="39" data-price-type="finalPrice" class="price-wrapper "><span class="price">$39.00</span></span></span></div></div></div><div class="product-item-info"><div class="product-image"><div class="product-img"><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-s-purple.html" title="Ariel Roll Sleeve Sweatshirt-S-Purple" class="product-item-photo"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus107_1.jpg" alt="Ariel Roll Sleeve Sweatshirt-S-Purple"/></a><a href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-s-purple.html" title="Ariel Roll Sleeve Sweatshirt-S-Purple" class="hover-image"><img src="http://127.0.1.1/venus/pub/media/catalog/product/cache/small_image/80x/e9c3970ab036de70892d86c6d221abfe/v/e/venus105_1.jpg" alt="Ariel Roll Sleeve Sweatshirt-S-Purple"/></a></div><div id="product-number156136240522042" data-productid="1156" style="display:none" class="product-cartitem vesproduct-cartnumber1156 product-cartnumber1156">0</div><div class="product-item-actions"><div class="actions-primary"><form data-role="productlist-tocart-form" id="productlist-156136240522042" action="http://127.0.1.1/venus/checkout/cart/add/uenc/aHR0cDovLzEyNy4wLjEuMS92ZW51cy8%2C/product/1156/" method="post"><input type="hidden" name="vesgol" value="1"><input type="hidden" name="ves" value="1"><input type="hidden" name="product" value="1156"><input type="hidden" name="uenc" value="aHR0cDovLzEyNy4wLjEuMS92ZW51cy9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpFeU55NHdMakV1TVM5MlpXNTFjeTglMkMvcHJvZHVjdC8xMTU2Lw,,"><input name="form_key" type="hidden" value="GuKS3AqrCyN4Y4gT"/><div class="itema quantity-adder"><span class="add-up add-action add-action156136240522042 fa fa-plus" data-parentqty="true"></span><input type="hidden" name="qty" data-productid="1156" class="qty156136240522042 product-cartitem product-cartnumber1156" value="0"/><div id="product-cart156136240522042" data-productid="1156" class="product-cartitem product-cartnumber1156">0</div><span class="add-down add-action add-action156136240522042 fa fa-minus" data-parentqty="true"></span></div><script type="text/javascript"> require(["jquery"], function(){
+                                        jQuery(window).ready( function(){
+                                        jQuery(".add-action156136240522042").click( function(){
+                                            if( jQuery(this).hasClass('add-up') ) {
+                                                if(parseInt(jQuery(".qty156136240522042").val())< 10000){
+                                                    var qty = parseInt(jQuery(".qty156136240522042").val()) + 1;
+                                                    jQuery(".qty156136240522042").val(qty);
+                                                    jQuery('.product-cartnumber'+1156).html(qty);
+                                                    jQuery('.product-cartnumber'+1156).val(qty);
+                                                    if(qty==1){
+                                                        jQuery('.vesproduct-cartnumber1156').show();
+                                                    }
+                                                    jQuery('#productlist-156136240522042').submit();
+                                                }
+                                            }else {
+                                                if( parseInt(jQuery(".qty156136240522042").val())  >0 ) {
+                                                    var formAction  = jQuery('#productlist-156136240522042').attr("action");
+                                                    formAction = formAction.replace("checkout/cart/add","checkout/cart/add/minus/1");
+                                                    var qty = parseInt(jQuery(".qty156136240522042").val()) - 1;
+                                                    jQuery('.product-cartnumber'+1156).html(qty);
+                                                    jQuery('.product-cartnumber'+1156).val(qty);
+                                                    if(qty==0){
+                                                        jQuery('.vesproduct-cartnumber1156').hide();
+                                                    }
+                                                    jQuery('#productlist-156136240522042').attr("action", formAction).submit();
+                                                }
+                                            }
+                                            return false;
+                                        });
+                                    })
+                                    });</script></form></div></div></div><div class="product-item-details"><div class="product-item-name"> <a class="product-item-link" href="http://127.0.1.1/venus/ariel-roll-sleeve-sweatshirt-s-purple.html">Ariel Roll Sleeve Sweatshirt-S-Purple</a></div><div class="price-box price-final_price" data-role="priceBox" data-product-id="1156"><span class="price-container price-final_price tax weee"><span data-price-amount="39" data-price-type="finalPrice" class="price-wrapper "><span class="price">$39.00</span></span></span></div></div></div></div></div></div><div id="productlist-27-269961561362405" class="ves-products-grid grid  "><div class="owl-carousel product-items"></div></div><div id="productlist-28-283171561362405" class="ves-products-grid grid  "><div class="owl-carousel product-items"></div></div></div></div><script type="text/javascript"> require([
+        'jquery',
+        'Ves_Productlist/js/jquery.easytabs.min',
+                "Ves_All/lib/owl.carousel/owl.carousel.min",
+                'Ves_Productlist/js/productlist',
+        ], function () {
+            var ajaxUrl = "http://127.0.1.1/venus/productlist/index/categoryProducts/";
+            easyTabInit("#easytab-1341561362405").bind("easytabs:before",function(e, $clicked, $targetPanel, settings) {
+                jQuery($targetPanel.selector).addClass("paneltab");
+                equalHeight($targetPanel.selector);
+            }).bind("easytabs:after",function(e, $clicked, $targetPanel, settings) {
+                jQuery($targetPanel.selector).removeClass("paneltab");
+            });
+                                                            owlCarouselInit("#productlist-carousel-1341561362405", "#productlist-24-156871561362405 .owl-carousel", "");
+                                                                                                                                                                                                                            ajaxClickProduct({"type":"Ves\\Productlist\\Block\\Widget\\CategoryTab","addition_class":"sidebar","productsource":"latest","enable_animate_tab":"1","animation_speed":"normal","cycle":"false","transition_in":"fadeIn","transition_in_easing":"swing","transition_out":"fadeOut","transition_out_easing":"swing","event":"click","show_name":"1","show_price":"1","show_image":"1","image_width":"80","image_height":"89","aspect_ratio":"1","alt_image":"1","alt_image_column":"position","alt_image_column_value":"2","show_addtocart":"1","addtocart_popup_width":"800","addtocart_popup_height":"600","addtocart_format_type":"text","addtocart_format_text":"Add to Cart","addtocart_format_class":"fa fa-shopping-cart","layout_type":"owl_carousel","number_item":"12","number_item_perpage":"3","lg_column_item":"1","md_column_item":"1","sm_column_item":"2","xs_column_item":"1","number_item_percolumn":"3","custom_item_height":"400px","large_max_items":"2","large_items":"2","portrait_items":"2","tablet_items":"2","tablet_small_items":"2","mobile_items":"1","nav":"1","nav_next":"<i class='fa fa-angle-right'> <\/i>","nav_pre":"<i class='fa fa-angle-left'> <\/i>","module_name":"Ves_Productlist","ajaxBlockId":"productlist-carousel-1341561362405","tab":{"category_id":"27","item_title":"Men","item_class":"","ajax_type":"2","position":"3","id":"productlist-27-269961561362405"}}, ajaxUrl);
+                                                                                                                                                                    ajaxClickProduct({"type":"Ves\\Productlist\\Block\\Widget\\CategoryTab","addition_class":"sidebar","productsource":"latest","enable_animate_tab":"1","animation_speed":"normal","cycle":"false","transition_in":"fadeIn","transition_in_easing":"swing","transition_out":"fadeOut","transition_out_easing":"swing","event":"click","show_name":"1","show_price":"1","show_image":"1","image_width":"80","image_height":"89","aspect_ratio":"1","alt_image":"1","alt_image_column":"position","alt_image_column_value":"2","show_addtocart":"1","addtocart_popup_width":"800","addtocart_popup_height":"600","addtocart_format_type":"text","addtocart_format_text":"Add to Cart","addtocart_format_class":"fa fa-shopping-cart","layout_type":"owl_carousel","number_item":"12","number_item_perpage":"3","lg_column_item":"1","md_column_item":"1","sm_column_item":"2","xs_column_item":"1","number_item_percolumn":"3","custom_item_height":"400px","large_max_items":"2","large_items":"2","portrait_items":"2","tablet_items":"2","tablet_small_items":"2","mobile_items":"1","nav":"1","nav_next":"<i class='fa fa-angle-right'> <\/i>","nav_pre":"<i class='fa fa-angle-left'> <\/i>","module_name":"Ves_Productlist","ajaxBlockId":"productlist-carousel-1341561362405","tab":{"category_id":"28","item_title":"Gear","item_class":"","ajax_type":"2","position":"4","id":"productlist-28-283171561362405"}}, ajaxUrl);
+                                                                                });</script></div></div></div></div></div></div></div></div></div><div class="ves-container   " style=";;margin:20px 0 0"><div><div class="ves-inner   block-success"><div class="row row-level-1  "><div class="row-inner clearfix "><div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "><div class="col-inner "><div><div class="ves-widget widget-carousel owlcarousel block  "><div class="block-title"><strong><span><i class='zmdi zmdi-twitter-box'></i>User Reviews</span></strong></div><div id="widget-carousel148221561362406" class="widget-inner block-content "><div id="owlwidgetcarousel82571561362406" class="owl-carousel"><div class="item first"><h4 class="item-title">Header1</h4><div class="item-content"><div class="pull-left"><img src="http://127.0.1.1/venus/pub/media/wysiwyg/ves_global/banner/avt1.png" alt=""/></div><p>@venus I have purchase this extension for current project.</p><p style="color:#999;font-size:12px;margin-top:2px;"><em class="zmdi zmdi-twitter">&nbsp;</em>6 minutes ago</p></div></div><div class="item "><h4 class="item-title">Header2</h4><div class="item-content"><div class="pull-left"><img src="http://127.0.1.1/venus/pub/media/wysiwyg/ves_global/banner/avt1.png" alt=""/></div><p>@venus It's fully customizable. A good extension!</p><p style="color:#999;font-size:12px;margin-top:2px;"><em class="zmdi zmdi-twitter">&nbsp;</em>2 minutes ago</p></div></div><div class="item "><h4 class="item-title">Header3</h4><div class="item-content"><div class="pull-left"><img src="http://127.0.1.1/venus/pub/media/wysiwyg/ves_global/banner/avt1.png" alt=""/></div><p>@venus The installation was quick and effectively.</p><p style="color:#999;font-size:12px;margin-top:2px;"><em class="zmdi zmdi-twitter">&nbsp;</em>18 minutes ago</p></div></div><div class="item "><h4 class="item-title">Header4</h4><div class="item-content"><div class="pull-left"><img src="http://127.0.1.1/venus/pub/media/wysiwyg/ves_global/banner/avt1.png" alt=""/></div><p>@venus It's fully customizable. A good extension!</p><p style="color:#999;font-size:12px;margin-top:2px;"><em class="zmdi zmdi-twitter">&nbsp;</em>2 minutes ago</p></div></div><div class="item last"><h4 class="item-title">Header5</h4><div class="item-content"><div class="pull-left"><img src="http://127.0.1.1/venus/pub/media/wysiwyg/ves_global/banner/avt1.png" alt=""/></div><p>@venus I have purchase this extension for current project.</p><p style="color:#999;font-size:12px;margin-top:2px;"><em class="zmdi zmdi-twitter">&nbsp;</em>6 minutes ago</p></div></div></div></div></div><script type="text/javascript">
+require(['jquery'],function($){
+            $(document).ready(function(){
+                  require([
+                  'jquery'
+                                     ,"Ves_All/lib/owl.carousel/owl.carousel.min"
+                                    ],function($){
+                      var widgetowlcarousel = jQuery('#owlwidgetcarousel82571561362406');
+                          widgetowlcarousel.owlCarousel({
+                              autoplay: true,
+                                                            autoplaySpeed: 1000,
+                                                            autoplayTimeout: 6000,
+                                                                                          autoplayHoverPause: false,
+                              nav: false,
+                                                            autoWidth: false,
+                              autoHeight: false,
+                              slideBy: 1,
+                              loop: true,
+                              margin: 0,
+                              navSpeed:  false,
+                              dots: false,
+                              dotsSpeed: 800,
+                              mouseDrag: true,
+                              touchDrag: false,
+                              pullDrag: false,
+                              lazyLoad: false,
+                                                            items: 3,
+                                                            responsive: {
+                                                                        0: {
+                                          items: 1,
+                                          nav: false,
+                                          loop: true                                    },
+                                                                                                            600: {
+                                          items: 2,
+                                          nav: false,
+                                          loop: true                                    },
+                                                                                                            767: {
+                                          items: 2,
+                                          nav: false,
+                                          loop: true                                    },
+                                                                                                            1000: {
+                                          items: 3,
+                                          nav: false,
+                                          loop: true                                    },
+                                                                        1200: {
+                                          items: 3,
+                                          nav: false,
+                                          loop: true                                    },
+                                                                        1900: {
+                                          items: 3,
+                                          nav: false,
+                                          loop: true                                    }
+                                                                  },
+                                                                                          singleItem: false                          });
+
+                            
+                  });
+            })
+      });</script></div></div></div></div></div></div></div></div><div class="ves-container   " style=";;margin:0 0 30px 0"><div><div class="ves-inner   "><div class="row row-level-1  "><div class="row-inner clearfix "><div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "><div class="col-inner "><div><div class="block widget ves-widget brand-widget "><div class="block-content brandowl-play"><ul id="ves-carousel127561561362406" class="owl-carousel ves-carousel127561561362406" data-rtl="false" data-loop="false" data-nav="false" data-dot="false" data-autoplay="false" data-autoplay-timeout="3000" data-pauonhover="false" data-mobile-items="2" data-tablet-small-items="2" data-tablet-items="2" data-portrait-items="3" data-large-items="6" data-large-max-items="6"><li class="item"><div class="brand-item"><div class="brand-image"><a href="http://127.0.1.1/venus/ves-brand.html/megashop.html" title="Megashop"><img src="http://127.0.1.1/venus/pub/media/ves/brand/brand1.png" alt="Megashop"/></a></div></div></li><li class="item"><div class="brand-item"><div class="brand-image"><a href="http://127.0.1.1/venus/ves-brand.html/floralstore.html" title="FloralStore"><img src="http://127.0.1.1/venus/pub/media/ves/brand/brand2.png" alt="FloralStore"/></a></div></div></li><li class="item"><div class="brand-item"><div class="brand-image"><a href="http://127.0.1.1/venus/ves-brand.html/sexy-trends.html" title="Sexy Trends"><img src="http://127.0.1.1/venus/pub/media/ves/brand/brand3.png" alt="Sexy Trends"/></a></div></div></li><li class="item"><div class="brand-item"><div class="brand-image"><a href="http://127.0.1.1/venus/ves-brand.html/clother.html" title="Clother"><img src="http://127.0.1.1/venus/pub/media/ves/brand/brand11.png" alt="Clother"/></a></div></div></li><li class="item"><div class="brand-item"><div class="brand-image"><a href="http://127.0.1.1/venus/ves-brand.html/boutique.html" title="Boutique"><img src="http://127.0.1.1/venus/pub/media/ves/brand/brand5.png" alt="Boutique"/></a></div></div></li><li class="item"><div class="brand-item"><div class="brand-image"><a href="http://127.0.1.1/venus/ves-brand.html/one-shop.html" title="One Shop"><img src="http://127.0.1.1/venus/pub/media/ves/brand/brand6.png" alt="One Shop"/></a></div></div></li><li class="item"><div class="brand-item"><div class="brand-image"><a href="http://127.0.1.1/venus/ves-brand.html/nextstore.html" title="Nextstore"><img src="http://127.0.1.1/venus/pub/media/ves/brand/brand7.png" alt="Nextstore"/></a></div></div></li><li class="item"><div class="brand-item"><div class="brand-image"><a href="http://127.0.1.1/venus/ves-brand.html/big-shop.html" title="Big Shop"><img src="http://127.0.1.1/venus/pub/media/ves/brand/brand8.png" alt="Big Shop"/></a></div></div></li><li class="item"><div class="brand-item"><div class="brand-image"><a href="http://127.0.1.1/venus/ves-brand.html/stationery.html" title="Stationery"><img src="http://127.0.1.1/venus/pub/media/ves/brand/brand9.png" alt="Stationery"/></a></div></div></li><li class="item"><div class="brand-item"><div class="brand-image"><a href="http://127.0.1.1/venus/ves-brand.html/maxx-shop.html" title="Maxx Shop"><img src="http://127.0.1.1/venus/pub/media/ves/brand/brand10.png" alt="Maxx Shop"/></a></div></div></li><li class="item"><div class="brand-item"><div class="brand-image"><a href="http://127.0.1.1/venus/ves-brand.html/car-market.html" title="Car Market"><img src="http://127.0.1.1/venus/pub/media/ves/brand/brand12.png" alt="Car Market"/></a></div></div></li><li class="item"><div class="brand-item"><div class="brand-image"><a href="http://127.0.1.1/venus/ves-brand.html/mobile.html" title="Mobile"><img src="http://127.0.1.1/venus/pub/media/ves/brand/brand13.png" alt="Mobile"/></a></div></div></li></ul></div></div><script type="text/javascript">	require(['Ves_Brand/js/brand']);</script></div></div></div></div></div></div></div></div></div>

@@ -1,0 +1,527 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1561362407;s:6:"expire";i:1561448807;s:4:"tags";s:49:"4aa_VES_PAGEBUILDER_BLOCK,4aa_BLOCK_HTML,4aa_MAGE";}
+<div class="block vesbuilder-block block-1  ">
+		<div class="block-content">
+		<div id="ves-blockbuilder59521561362406" class="">
+ 				    	    		    	
+	        <div class="ves-container   "  >
+	        		        	
+	        	<div>
+	        	
+	        	<div class="ves-inner  container-fluid " >
+	        				    			    			    				
+			    <div class="row row-level-1  " >
+			    	
+			    	<div class="row-inner clearfix display-flex" >
+			        			        	 										        
+			            <div  class=" col-lg-4 col-md-4 col-sm-6 col-xs-12 footer-border-right "   >
+
+			            	
+				           
+			            	<div class="col-inner "  style="padding:40px 0">
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    			<div class="ves-widget widget-html block  ">
+				<div class="block-title">
+						<strong><span>About Us</span></strong>
+		</div>
+				<div id="widget-html81261561362407" class="widget-inner block-content ">
+			<ul>
+<li><em class="zmdi zmdi-google-maps zmdi-hc-fw" style="line-height: 30px;">  </em>PO Box 16122 Collins Street West Victoria 8007 Australia</li>
+<li><em class="zmdi zmdi-whatsapp zmdi-hc-fw">  </em>+844 123 456 78</li>
+<li style="float: left; width: 100%;"><em class="zmdi zmdi-email">  </em> <a class="textbox" href="#">contact@domain.com</a></li>
+</ul>		</div>
+	</div>
+
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			        	 										        
+			            <div  class=" col-lg-4 col-md-4 col-sm-6 col-xs-12 footer-border-right "   >
+
+			            	
+				           
+			            	<div class="col-inner "  style="padding:40px 20px">
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="ves-widget widget-newsletter newsletter block custom-subscribe ">
+    <div class="block-title ">
+                <strong><span>Newsletter</span></strong>
+    </div>
+    <div id="widget-newsletter264761561362407" class="widget-inner block-content ">
+        <form class="form subscribe"
+            novalidate
+            action="http://127.0.1.1/venus/newsletter/subscriber/new/"
+            method="post"
+            data-mage-init='{"validation": {"errorClass": "mage-error"}}'
+            id="newsletter-validate-detail">
+            <div class="field newsletter">
+                <label class="label" for="newsletter"><span>Make sure you dont miss interesting hapenings by joining our newsletter program</span></label>
+                <div class="control">
+                    <input name="email" type="email" id="newsletter"
+                                placeholder="Enter your email address"
+                                data-validate="{required:true, 'validate-email':true}" class=""/>
+                </div>
+            </div>
+            <div class="actions">
+                <button class="action subscribe " title="SUBSCRIBE" type="submit">
+                    <span>SUBSCRIBE</span>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			        	 										        
+			            <div  class=" col-lg-4 col-md-4 col-sm-12 col-xs-12 follow-us "   >
+
+			            	
+				           
+			            	<div class="col-inner "  style="padding:40px 5% 40px 14%">
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    			<div class="ves-widget widget-html block no-margin ">
+				<div class="block-title">
+						<strong><span>Follow Us</span></strong>
+		</div>
+				<div id="widget-html85011561362407" class="widget-inner block-content ">
+			Nisi elituat ipsum odio sit amet nibh ulpate cursus a sit amet mauris.		</div>
+	</div>
+
+			                    	</div>
+
+			                    			                   					                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="ves-widget widget-sociallinks block">
+		<div id="widget-sociallinks311781561362407" class="widget-inner block-content ">
+		<ul>
+						<li class="facebook"><a class="fa fa-facebook" href="http://facebook.com/venustheme" title="Facebook"></a></li>
+									<li class="twitter"><a class="fa fa-twitter" href="https://twitter.com/venustheme" title="Twitter"></a></li>
+												<li class="google-plus"><a class="fa fa-google-plus" href="https://plus.google.com/venusTheme" title="Google Plus"></a></li>
+									<li class="youtube"><a class="fa fa-youtube" href="https://youtube.com/venustheme" title="Youtube"></a></li>
+																																																														</ul>
+	</div>
+</div>
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        </div>
+		    </div>
+		    </div>
+	    
+		    	    		    	
+	        <div class="ves-container   "  >
+	        		        	
+	        	<div>
+	        	
+	        	<div class="ves-inner   " >
+	        				    			    			    				
+			    <div class="row row-level-1  " >
+			    	
+			    	<div class="row-inner clearfix " >
+			        			        	 										        
+			            <div  class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="ves-widget widget-carousel owlcarousel block  ">
+            <div id="widget-carousel70891561362407" class="widget-inner block-content ">
+            <div id="owlwidgetcarousel36721561362407" class="owl-carousel">
+                                    <div class="item first">
+                              <h4 class="item-title">Header1 </h4>                              <div class="item-content">
+                                    <div class="pull-left"><i class="fa fa-paper-plane-o"> &nbsp;</i></div>
+<h4>Free Shipping</h4>
+<h5>On order over $100</h5>                              </div>
+                        </div>
+                                    <div class="item ">
+                              <h4 class="item-title">Header2 </h4>                              <div class="item-content">
+                                    <div class="pull-left"><i class="fa fa-clock-o"> &nbsp;</i></div>
+<h4>Money Back Guarantee</h4>
+<h5>30 Days money back guarantee</h5>                              </div>
+                        </div>
+                                    <div class="item ">
+                              <h4 class="item-title">Header3 </h4>                              <div class="item-content">
+                                    <div class="pull-left"><i class="fa fa-shield"> &nbsp;</i></div>
+<h4>Buy with confidence 100%</h4>
+<h5>Save & Secure payments</h5>                              </div>
+                        </div>
+                                    <div class="item last">
+                              <h4 class="item-title">Header4 </h4>                              <div class="item-content">
+                                                                  </div>
+                        </div>
+                        </div>
+                  </div>
+</div>
+<script type="text/javascript">
+require(['jquery'],function($){
+            $(document).ready(function(){
+                  require([
+                  'jquery'
+                                     ,"Ves_All/lib/owl.carousel/owl.carousel.min"
+                                    ],function($){
+                      var widgetowlcarousel = jQuery('#owlwidgetcarousel36721561362407');
+                          widgetowlcarousel.owlCarousel({
+                              autoplay: false,
+                                                            autoplaySpeed: 1000,
+                                                            autoplayTimeout: 0,
+                                                            animateIn: "fadeIn",
+                                                                                          animateOut: "fadeOut",
+                                                            autoplayHoverPause: false,
+                              nav: true,
+                                                            navText: ["<span class='fa fa-angle-left'></span>","<span class='fa fa-angle-right'></span>"],
+                                                            autoWidth: false,
+                              autoHeight: false,
+                              slideBy: 1,
+                              loop: false,
+                              margin: 0,
+                              navSpeed:  false,
+                              dots: false,
+                              dotsSpeed: 800,
+                              mouseDrag: true,
+                              touchDrag: false,
+                              pullDrag: false,
+                              lazyLoad: false,
+                                                            items: 3,
+                                                            responsive: {
+                                                                        0: {
+                                          items: 1,
+                                          nav: true,
+                                          loop: false                                    },
+                                                                                                            600: {
+                                          items: 2,
+                                          nav: true,
+                                          loop: false                                    },
+                                                                                                            767: {
+                                          items: 2,
+                                          nav: true,
+                                          loop: false                                    },
+                                                                                                            1000: {
+                                          items: 2,
+                                          nav: true,
+                                          loop: false                                    },
+                                                                        1200: {
+                                          items: 3,
+                                          nav: true,
+                                          loop: false                                    },
+                                                                        1900: {
+                                          items: 3,
+                                          nav: true,
+                                          loop: false                                    }
+                                                                  },
+                                                                                          singleItem: false                          });
+
+                            
+                  });
+            })
+      });
+</script>
+
+
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        </div>
+		    </div>
+		    </div>
+	    
+		    	    		    	
+	        <div class="ves-container   footer-border-bottom"   style="padding:40px 0">
+	        		        	
+	        	<div>
+	        	
+	        	<div class="ves-inner  container-fluid " >
+	        				    			    			    				
+			    <div class="row row-level-1  " >
+			    	
+			    	<div class="row-inner clearfix " >
+			        			        	 										        
+			            <div  class=" col-lg-3 col-md-3 col-sm-3 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="ves-widget panel-group widget-links block  " id="accordion-links-276711561362407">
+	<div class="panel panel-default">
+        
+    	        <div class="panel-heading block-title">
+            <strong><span>
+                GLOBAL GUARANTY                <a data-toggle="collapse" data-parent="#accordion-links-276711561362407" href="#collapseLinks276711561362407" class="panel-title hidden-lg hidden-md">
+                    <i class="fa fa-angle-down"></i>
+                </a>
+            </span></strong>
+        </div>
+                
+        <div id="collapseLinks276711561362407" class="block-content panel-collapse collapse in">
+            <div class="panel-body">
+            	<ul class="nav-links " id="myAccordionTab276711561362407">
+									  		<li>
+                                                        <a href="http://127.0.1.1/venus/about-magento-demo-store">Legendary service</a></li>
+				  					  		<li>
+                                                        <a href="http://127.0.1.1/venus/sales/guest/form/">Quality products</a></li>
+				  					  		<li>
+                                                        <a href="http://127.0.1.1/venus/privacy-policy-cookie-restriction-mode">Value for money</a></li>
+				  					  		<li>
+                                                        <a href="http://127.0.1.1/venus/customer-service">Convenience  </a></li>
+				  					</ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+require(['jquery'],function($){
+    $(document).ready(function(){
+    require([
+        'jquery'
+                ],function($){
+            
+        });
+    });
+});
+</script>
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			        	 										        
+			            <div  class=" col-lg-3 col-md-3 col-sm-3 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="ves-widget panel-group widget-links block  " id="accordion-links-143401561362407">
+	<div class="panel panel-default">
+        
+    	        <div class="panel-heading block-title">
+            <strong><span>
+                OUR COMPANY                <a data-toggle="collapse" data-parent="#accordion-links-143401561362407" href="#collapseLinks143401561362407" class="panel-title hidden-lg hidden-md">
+                    <i class="fa fa-angle-down"></i>
+                </a>
+            </span></strong>
+        </div>
+                
+        <div id="collapseLinks143401561362407" class="block-content panel-collapse collapse in">
+            <div class="panel-body">
+            	<ul class="nav-links " id="myAccordionTab143401561362407">
+									  		<li>
+                                                        <a href="http://127.0.1.1/venus/about-us">About Us</a></li>
+				  					  		<li>
+                                                        <a href="http://127.0.1.1/venus/founding-team">The Team</a></li>
+				  					  		<li>
+                                                        <a href="http://127.0.1.1/venus/careers">Careers</a></li>
+				  					  		<li>
+                                                        <a href="http://127.0.1.1/venus/contact">Contact Us</a></li>
+				  					  		<li>
+                                                        <a href="#">Privacy policy</a></li>
+				  					  		<li>
+                                                        <a href="http://127.0.1.1/venus/catalog/seo_sitemap/category/">Sitemap</a></li>
+				  					</ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+require(['jquery'],function($){
+    $(document).ready(function(){
+    require([
+        'jquery'
+                ],function($){
+            
+        });
+    });
+});
+</script>
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			        	 										        
+			            <div  class=" col-lg-3 col-md-3 col-sm-3 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="ves-widget panel-group widget-links block  " id="accordion-links-168771561362407">
+	<div class="panel panel-default">
+        
+    	        <div class="panel-heading block-title">
+            <strong><span>
+                OUR SERVICE                <a data-toggle="collapse" data-parent="#accordion-links-168771561362407" href="#collapseLinks168771561362407" class="panel-title hidden-lg hidden-md">
+                    <i class="fa fa-angle-down"></i>
+                </a>
+            </span></strong>
+        </div>
+                
+        <div id="collapseLinks168771561362407" class="block-content panel-collapse collapse in">
+            <div class="panel-body">
+            	<ul class="nav-links " id="myAccordionTab168771561362407">
+									  		<li>
+                                                        <a href="#">Value Proposition</a></li>
+				  					  		<li>
+                                                        <a href="http://127.0.1.1/venus/sales/guest/form/">User Comments</a></li>
+				  					  		<li>
+                                                        <a href="#">How To Buy on Venustheme</a></li>
+				  					  		<li>
+                                                        <a href="#">How To Sell on Venustheme</a></li>
+				  					  		<li>
+                                                        <a href="#">Venustheme services</a></li>
+				  					  		<li>
+                                                        <a href="#">The Busy Homemaker Blog</a></li>
+				  					</ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+require(['jquery'],function($){
+    $(document).ready(function(){
+    require([
+        'jquery'
+                ],function($){
+            
+        });
+    });
+});
+</script>
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			        	 										        
+			            <div  class=" col-lg-3 col-md-3 col-sm-3 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                		
+			                		<div  >
+			                					                    		<div class="ves-widget panel-group widget-links block  " id="accordion-links-307541561362407">
+	<div class="panel panel-default">
+        
+    	        <div class="panel-heading block-title">
+            <strong><span>
+                OUR AFFILIATES                <a data-toggle="collapse" data-parent="#accordion-links-307541561362407" href="#collapseLinks307541561362407" class="panel-title hidden-lg hidden-md">
+                    <i class="fa fa-angle-down"></i>
+                </a>
+            </span></strong>
+        </div>
+                
+        <div id="collapseLinks307541561362407" class="block-content panel-collapse collapse in">
+            <div class="panel-body">
+            	<ul class="nav-links " id="myAccordionTab307541561362407">
+									  		<li>
+                                                        <a href="http://127.0.1.1/venus/contacts">Become A Affliate</a></li>
+				  					  		<li>
+                                                        <a href="http://127.0.1.1/venus/customer/account/create/">Affliate Sign-Up Terms</a></li>
+				  					  		<li>
+                                                        <a href="#">Affiliates FAQ</a></li>
+				  					  		<li>
+                                                        <a href="http://127.0.1.1/venus/customer/account/login/">Affiliates Login</a></li>
+				  					</ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+require(['jquery'],function($){
+    $(document).ready(function(){
+    require([
+        'jquery'
+                ],function($){
+            
+        });
+    });
+});
+</script>
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        </div>
+		    </div>
+		    </div>
+	    
+		    	    		    	
+	        <div class="ves-container   "  >
+	        		        	
+	        	<div>
+	        	
+	        	<div class="ves-inner  container-fluid text-center" >
+	        				    			    			    				
+			    <div class="row row-level-1  " >
+			    	
+			    	<div class="row-inner clearfix " >
+			        			        	 										        
+			            <div  class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "   >
+
+			            	
+				           
+			            	<div class="col-inner " >
+			                			                	
+			                					                					                		
+			                		<div  class="hidden-xs   "  style="padding:20px 0 0" >
+
+			                					                    		<div class="widget-images block no-effect  ">
+		<div class="widget-inner block-content clearfix">
+		<div class="image-item">
+													<span class="img-animation"><img  src="http://127.0.1.1/venus/pub/media/wysiwyg/ves_global/banner/payment_horizontal.jpg"  class="img-responsive  left-block " alt="Image"/></span>
+															</div>
+		</div>
+	</div>
+
+<script type="text/javascript">
+		</script>
+			                    	</div>
+
+			                    			                   					                			                			            	</div>
+
+			            				        	</div>
+			        			    	</div>
+			    </div>
+		
+	    	        </div>
+		    </div>
+		    </div>
+	    
+	 	  	</div>
+	</div>
+</div>
